@@ -1,6 +1,6 @@
 import React from "react";
 import { Link } from "react-router-dom";
-import MenuIcon from '@mui/icons-material/Menu';
+import MenuIcon from "@mui/icons-material/Menu";
 
 function NavbarComponent(props) {
   const {} = props;
@@ -11,10 +11,9 @@ function NavbarComponent(props) {
       id="ftco-navbar"
     >
       <div className="container">
-
-      <a className="navbar-brand" href="/user/home">
-            Pi Group<sup>3.14</sup>
-          </a>
+        <Link className="navbar-brand" to="/home">
+          Pimath<sup>3.14</sup>
+        </Link>
         <button
           className="navbar-toggler js-fh5co-nav-toggle fh5co-nav-toggle"
           type="button"
@@ -24,22 +23,15 @@ function NavbarComponent(props) {
           aria-expanded="false"
           aria-label="Toggle navigation"
         >
-          <MenuIcon/>
+          <MenuIcon />
         </button>
-        <div className="collapse navbar-collapse" id="ftco-nav">
+        <div className="collapse1 navbar-collapse" id="ftco-nav">
           <ul className="navbar-nav nav ml-auto">
             <li className="nav-item">
               <a href="#home-section" className="nav-link">
                 <span>Trang chủ</span>
               </a>
             </li>
-            
-            <li className="nav-item">
-              <a href="/trang-chu/thi-thu" className="nav-link">
-                <span>Thi thử Online</span>
-              </a>
-            </li>
-
             <li className="nav-item">
               <a href="#about-section" className="nav-link">
                 <span>Giới thiệu</span>
@@ -56,27 +48,30 @@ function NavbarComponent(props) {
               </a>
             </li>
             <li className="nav-item">
-              <a href="#projects-section" className="nav-link">
-                <span>Sách của Pi</span>
-              </a>
-            </li>
-            <li className="nav-item">
-              <a href="#author-section" className="nav-link">
-                <span>Admin</span>
-              </a>
+              <Link to="/home/test" className="nav-link">
+                <span>Thi thử Online</span>
+              </Link>
             </li>
             <li className="nav-item">
               <a href="#contact-section" className="nav-link">
                 <span>Liên hệ</span>
               </a>
             </li>
+            {/* <li className="nav-item">
+              <a href="#projects-section" className="nav-link">
+                <span>Sách của Pi</span>
+              </a>
+            </li> */}
+            {/* <li className="nav-item">
+              <a href="#author-section" className="nav-link">
+                <span>Admin</span>
+              </a>
+            </li> */}
           </ul>
         </div>
       </div>
     </nav>
   );
 }
-
-
 
 export default NavbarComponent;

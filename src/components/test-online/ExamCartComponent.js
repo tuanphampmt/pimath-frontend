@@ -20,7 +20,7 @@ export default function ExamCartComponent() {
   };
 
   return (
-    <Card sx={{ maxWidth: 375, cursor: "pointer", marginBottom: "30px" }} onClick={() => navigate("/trang-chu/thi-thu/de-thi-so-16")}>
+    <Card sx={{ maxWidth: 375, cursor: "pointer", marginBottom: "30px" }} onClick={() => navigate("/home/test/de-thi-so-16")}>
       <CardHeader
         sx={{
           "& .MuiCardHeader-title": {

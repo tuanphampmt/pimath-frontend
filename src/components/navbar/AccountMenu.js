@@ -25,7 +25,7 @@ export default function AccountMenu() {
   const logout = () => {
     signOut(auth);
     localStorage.clear();
-    navigate("/user/login")
+    navigate("/login")
 
   };
 

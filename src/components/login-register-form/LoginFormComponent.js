@@ -102,7 +102,7 @@ function LoginFormComponent(props) {
           "access-token",
           JSON.stringify(res.user.accessToken)
         );
-        navigate("//trang-chu");
+        navigate("//home");
       }
     } catch (err) {
       console.error(err);
@@ -125,7 +125,7 @@ function LoginFormComponent(props) {
               "access-token",
               JSON.stringify(res.user.accessToken)
             );
-            navigate("//trang-chu");
+            navigate("//home");
           } else {
             setError("Tài khoản của bạn chưa được xác thực.");
           }

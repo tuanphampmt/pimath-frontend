@@ -18,10 +18,8 @@ function TestimonialSectionComponent(props) {
       <div className="container">
         <div className="row justify-content-center mb-5">
           <div className="col-md-12 text-center heading-section heading-section-white ftco-animate">
-            <span className="subheading">PI GROUP</span>
-            <h2 className="mb-3">
-              MỘT SỐ NHẬN XÉT CỦA CÁC ANH CHỊ SAU KHI HOÀN THÀNH KHÓA HỌC PIMAX
-              PLUS
+            <h2 className="mb-3 pacifico">
+              MỘT SỐ NHẬN XÉT CỦA CÁC ANH CHỊ SAU KHI HOÀN THÀNH KHÓA HỌC PIMATH
             </h2>
           </div>
         </div>
@@ -46,7 +44,7 @@ function TestimonialSectionComponent(props) {
                       />
                       <div className="pl-3">
                         <p className="name">Ẩn danh</p>
-                        <span className="position">Học sinh Khoá Pimax</span>
+                        <span className="position">Học sinh Khoá PIMATH</span>
                       </div>
                     </div>
                   </div>
@@ -67,7 +65,7 @@ function TestimonialSectionComponent(props) {
                             giải cx như cách tư duy của 1 số dạng bài VDC và nhờ
                             đó e có động lực hơn để chinh phục 8+ 9+ .kì thi kết
                             thúc, ssoos điểm làm e cx tạm hài lòng và nếu được
-                            nói vs các e 2k4.5....n , hãy chọn Pimax và a Tuấn
+                            nói vs các e 2k4.5....n , hãy chọn PIMATH và a Tuấn
                             ạ. E cảm ơn a và team rất nhiều.
                           </span>
                         }
@@ -87,7 +85,7 @@ function TestimonialSectionComponent(props) {
                       />
                       <div className="pl-3">
                         <p className="name">Ẩn danh</p>
-                        <span className="position">Học sinh Khoá Pimax</span>
+                        <span className="position">Học sinh Khoá PIMATH</span>
                       </div>
                     </div>
                   </div>
@@ -104,16 +102,16 @@ function TestimonialSectionComponent(props) {
                         title={
                           <span style={{ fontSize: "15px" }}>
                             đã tự làm được đến 9,6 điểm môn toán. Theo cảm nhận
-                            của em pimax là bộ tài liệu tuyệt vời. Nó ko chỉ gò
+                            của em PIMATH là bộ tài liệu tuyệt vời. Nó ko chỉ gò
                             bó trong một khuôn khổ nào đó mà nó hướng đến tiêu
                             chí em thấy quan trọng nhất trong việc học toán. Đó
                             là sự sáng tạo. Đi kèm với đó là sự khó kinh khủng
                             khiếp của các bài tập trong đó. Nếu em nào mà hướng
-                            đến mục tiêu 9,2 9,4 toán thì pimax sẽ là lựa chọn
+                            đến mục tiêu 9,2 9,4 toán thì PIMATH sẽ là lựa chọn
                             rất tốt. Và một điều rất quan trọng nữa đó là gr
-                            chat pimax với những đại cao thủ từ khắp nơi tập hợp
-                            đến. Em đã học hỏi được rất nhiều từ các cao thủ đó.
-                            Cảm ơn anh vì khoá học!
+                            chat PIMATH với những đại cao thủ từ khắp nơi tập
+                            hợp đến. Em đã học hỏi được rất nhiều từ các cao thủ
+                            đó. Cảm ơn anh vì khoá học!
                           </span>
                         }
                         placement="top"
@@ -121,7 +119,7 @@ function TestimonialSectionComponent(props) {
                         <span>
                           Em chào anh. Em cũng không biết nó có tự hiện tên mình
                           ko nên cứ giới thiệu lại vậy. Em là Anh Quân, hs đã
-                          mua khoá học pimax 2021. Kì thi thptqg vừa qua...
+                          mua khoá học PIMATH 2021. Kì thi thptqg vừa qua...
                         </span>
                       </Tooltip>
                     </p>
@@ -132,7 +130,7 @@ function TestimonialSectionComponent(props) {
                       />
                       <div className="pl-3">
                         <p className="name">Ẩn danh</p>
-                        <span className="position">Học sinh Khoá Pimax</span>
+                        <span className="position">Học sinh Khoá PIMATH</span>
                       </div>
                     </div>
                   </div>
@@ -167,7 +165,7 @@ function TestimonialSectionComponent(props) {
                       />
                       <div className="pl-3">
                         <p className="name">Ẩn danh</p>
-                        <span className="position">Học sinh Khoá Pimax</span>
+                        <span className="position">Học sinh Khoá PIMATH</span>
                       </div>
                     </div>
                   </div>
@@ -202,7 +200,7 @@ function TestimonialSectionComponent(props) {
                       />
                       <div className="pl-3">
                         <p className="name">Ẩn danh</p>
-                        <span className="position">Học sinh Khoá Pimax</span>
+                        <span className="position">Học sinh Khoá PIMATH</span>
                       </div>
                     </div>
                   </div>
@@ -237,7 +235,7 @@ function TestimonialSectionComponent(props) {
                       />
                       <div className="pl-3">
                         <p className="name">Ẩn danh</p>
-                        <span className="position">Học sinh Khoá Pimax</span>
+                        <span className="position">Học sinh Khoá PIMATH</span>
                       </div>
                     </div>
                   </div>
@@ -256,7 +254,7 @@ function TestimonialSectionComponent(props) {
                           <span style={{ fontSize: "15px" }}>
                             triển để tụi em an tâm ôn bài để đi thi đều chứa đầy
                             sự nhiệt huyết và tâm tình trong đấy. Em muốn gửi
-                            lời cảm ơn chân thành và sâu sắc tới đội ngũ pimax,
+                            lời cảm ơn chân thành và sâu sắc tới đội ngũ PIMATH,
                             luôn hết mình và cống hiến vì các đàn em thân yêu.
                             Hi vọng anh vẫn tiếp tục và tụi em sẽ luôn ủng hộ
                             anh yêu anh và yêu nhóm Pi.
@@ -279,7 +277,7 @@ function TestimonialSectionComponent(props) {
                       />
                       <div className="pl-3">
                         <p className="name">Ẩn danh</p>
-                        <span className="position">Học sinh Khoá Pimax</span>
+                        <span className="position">Học sinh Khoá PIMATH</span>
                       </div>
                     </div>
                   </div>

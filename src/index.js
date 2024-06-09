@@ -1,6 +1,10 @@
 import React from "react";
 import ReactDOM from "react-dom/client";
-import App from "./App";
+// import './css/style.css';
+// import './css/satoshi.css';
+// import 'jsvectormap/dist/css/jsvectormap.css';
+// import 'flatpickr/dist/flatpickr.min.css';
+import "./App.css";
 import store from "./store";
 import { Provider } from "react-redux";
 import reportWebVitals from "./reportWebVitals";
@@ -14,6 +18,8 @@ import ProtectedRoute from "./routes/ProtectedRoute";
 import HomeTestOnlineComponent from "./components/test-online/HomeTestOnlineComponent";
 import "./common/js/loader";
 import ExamComponent from "./components/test-online/ExamComponent";
+import SignIn from "./pages/Authentication/SignIn.tsx";
+import SignUp from "./pages/Authentication/SignUp.tsx";
 
 const root = ReactDOM.createRoot(document.getElementById("root"));
 
@@ -23,19 +29,18 @@ root.render(
       <Routes>
         {/* PrivateRoute - user */}
         <Route element={<PrivateRoute />}>
-          <Route path="/trang-chu/thi-thu" element={<HomeTestOnlineComponent />} />
-          <Route path="/trang-chu/thi-thu/:examId" element={<ExamComponent />} />
+          <Route path="/home/test" element={<HomeTestOnlineComponent />} />
+          <Route path="/home/test/:examId" element={<ExamComponent />} />
         </Route>
         {/* PublicRoute - user*/}
-        <Route element={<PublicRoute role="user"/>}>
-          <Route path="/dang-nhap" element={<LoginFormComponent />} />
-          <Route path="/dang-ky" element={<RegisterFormComponent />} />
-  
+        <Route element={<PublicRoute role="user" />}>
+          <Route path="/auth/signin" element={<SignIn />} />
+          <Route path="/auth/signup" element={<SignUp />} />
         </Route>
         {/* ProtectedRoute - user */}
         <Route element={<ProtectedRoute />}>
-          <Route path="/" element={<Navigate to="/trang-chu" />} />
-          <Route path="/trang-chu" element={<HomeComponent />} />
+          <Route path="/" element={<Navigate to="/home" />} />
+          <Route path="/home" element={<HomeComponent />} />
         </Route>
       </Routes>
     </BrowserRouter>

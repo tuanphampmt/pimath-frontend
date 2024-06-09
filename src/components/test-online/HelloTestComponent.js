@@ -41,22 +41,22 @@ function HelloTestComponent(props) {
           <div className="one-forth d-flex align-items-center ftco-animate js-fullheight">
             <div className="text mt-5">
               <span className="subheading">
-                THE BEST OR NOTHING - TỐT NHẤT HOẶC KHÔNG CÓ GÌ
+                The Best Or Nothing - Tốt Nhất Hoặc Không Có Gì
               </span>
-              <h1>Nhóm Pi - Group Luyện Đề Thi Thử Nâng Cao ︵✿ρмт‿✿</h1>
-              <p>
-                Nhóm Pi mang sứ mệnh dìu dắt các em đến gần hơn với cánh cổng
-                đại học. Nhóm mang giá trị cốt lõi của một người lái đò và luôn
-                gắn liền với “sự hoàn hảo, niềm đam mê và trách nhiệm".
+              <h1>Pimath Và Những Lần Chống Trị Sai Ngu - Khóa 2k7 ︵✿Ρмт‿✿</h1>
+              <p p>
+                Pimath mang sứ mệnh dìu dắt các em đến gần hơn với cánh cổng đại
+                học. Nhóm mang giá trị cốt lõi của một người lái đò và luôn gắn
+                liền với “Sự hoàn hảo, Niềm đam mê và Trách nhiệm".
               </p>
 
-              <a
+              {/* <a
                 href="#open"
                 className="btn btn-primary py-3 px-4"
                 onClick={handleClickOpen}
               >
                 Bắt đầu thi thử
-              </a>
+              </a> */}
             </div>
           </div>
         </div>

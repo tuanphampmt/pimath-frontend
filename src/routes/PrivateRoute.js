@@ -9,7 +9,7 @@ function PrivateRoute(props) {
   //   return auth ? <Outlet /> : <Navigate to="/admin/login" />;
   // }
   // if (role === "user") {
-  //   return auth ? <Outlet /> : <Navigate to="/user/login" />;
+  //   return auth ? <Outlet /> : <Navigate to="/login" />;
   // }
   return <Outlet />;
 }

@@ -9,7 +9,7 @@ function PublicRoute(props) {
     return auth ? <Navigate to="/admin/home" /> : <Outlet />;
   }
   if (role === "user") {
-    return auth ? <Navigate to="//trang-chu" /> : <Outlet />;
+    return auth ? <Navigate to="/home" /> : <Outlet />;
   }
 }
 

@@ -1,10 +1,26 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
 
-table, td, th {
-  border: 1px solid;
-  padding: 10px;
+body {
+  font-family: "Potta One", system-ui !important;
+  font-weight: 400;
+  font-style: normal;
+}
+a,
+.pacifico,
+h1 {
+  font-family: "Potta One", system-ui !important;
+  font-weight: 600;
+  font-style: normal;
+}
+p {
+  font-family: "Potta One", system-ui !important;
+  font-weight: 200;
 }
 
-table {
-  width: 100%;
-  border-collapse: collapse;
+code {
+  font-family: "Pacifico", cursive;
+  font-weight: 400;
+  font-style: normal;
 }

@@ -18,22 +18,22 @@ function HeroWrapComponent(props) {
           />
           <div className="one-forth d-flex align-items-center ftco-animate js-fullheight">
             <div className="text mt-5">
-              <span className="subheading">
-                THE BEST OR NOTHING - TỐT NHẤT HOẶC KHÔNG CÓ GÌ
+              <span className="subheading pacifico">
+                The Best Or Nothing - Tốt Nhất Hoặc Không Có Gì
               </span>
-              <h1>Nhóm Pi - Group Luyện Đề Thi Thử Nâng Cao ︵✿ρмт‿✿</h1>
-              <p>
-                Nhóm Pi mang sứ mệnh dìu dắt các em đến gần hơn với cánh cổng
-                đại học. Nhóm mang giá trị cốt lõi của một người lái đò và luôn
-                gắn liền với “sự hoàn hảo, niềm đam mê và trách nhiệm".
+              <h1>Pimath Và Những Lần Chống Trị Sai Ngu - Khóa 2k7 ︵✿Ρмт‿✿</h1>
+              <p className="mt-3">
+                Pimath mang sứ mệnh dìu dắt các em đến gần hơn với cánh cổng đại
+                học. Nhóm mang giá trị cốt lõi của một người lái đò và luôn gắn
+                liền với “Sự hoàn hảo, Niềm đam mê và Trách nhiệm".
               </p>
-              {authService ? (
-                <AccountMenu/>
+              {/* {authService ? (
+                <AccountMenu />
               ) : (
-                <Link to="/user/login" className="btn btn-primary py-3 px-4">
+                <Link to="/login" className="btn btn-primary py-3 px-4">
                   Đăng nhập
                 </Link>
-              )}
+              )} */}
             </div>
           </div>
         </div>

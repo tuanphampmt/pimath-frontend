@@ -106,7 +106,7 @@ function RegisterFormComponent(props) {
         "access-token",
         JSON.stringify(res.user.accessToken)
       );
-      navigate("//trang-chu");
+      navigate("//home");
     } catch (err) {
       console.error(err);
       setError(err.message);
@@ -139,7 +139,7 @@ function RegisterFormComponent(props) {
           "access-token",
           JSON.stringify(res.user.accessToken)
         );
-        navigate("//trang-chu");
+        navigate("//home");
       }
     } catch (err) {
       console.error(err);
@@ -237,7 +237,7 @@ function RegisterFormComponent(props) {
 
                     <div className="d-flex mb-5 align-items-center">
                       <span className="mr-auto">
-                        <Link to="/user/login" className="forgot-pass">
+                        <Link to="/login" className="forgot-pass">
                           Đăng nhập
                         </Link>
                       </span>

@@ -13,29 +13,37 @@ function AboutSectionComponent(props) {
               <div className="overlay" />
               <div
                 className="img d-flex align-self-stretch align-items-center"
-                style={{ backgroundImage: "url(/images/logo-pi.jpeg)" }}
+                style={{ backgroundImage: "url(/images/logo.jpeg)" }}
               ></div>
             </div>
           </div>
           <div className="col-md-6 col-lg-6 pl-md-5">
             <div className="row justify-content-start pb-3">
               <div className="col-md-12 heading-section ftco-animate">
-                <h2 className="mb-4">PI GROUP</h2>
+                <h2 className="mb-4 pacifico">Pimath</h2>
                 <p>
-                  Nhóm Pi là nơi tổ chức thi thử THPT Quốc Gia gồm các môn Toán, Lý, Hoá, Sinh. Các đề được soạn theo thiên hướng nâng cao, có độ phân hoá rõ ràng và các câu hỏi VD - VDC hay, lạ, khó.
+                  Pimath có những khóa học VD VDC cực kì chất lượng, là nơi tổ
+                  chức thi thử THPT Quốc Gia môn Toán. Các đề được soạn theo
+                  thiên hướng nâng cao, có độ phân hoá rõ ràng và các câu hỏi VD
+                  - VDC hay, lạ, khó.
                 </p>
                 <div className="text-about">
-                  <h4>Mục tiêu</h4>
+                  <h4 className="pacifico">Mục tiêu</h4>
                   <p>
-                    Mục tiêu của Nhóm Pi là giúp các em ôn luyện kiến thức các môn Toán, Lý, Hoá, Sinh một cách kĩ càng để các em tự tin bước vào kì thi THPT Quốc Gia.
+                    Mục tiêu của Pimath là giúp các em ôn luyện kiến thức môn
+                    Toán một cách kĩ càng để các em tự tin bước vào kì thi THPT
+                    Quốc Gia.
                   </p>
-                  <h4>Định hướng</h4>
+                  <h4 className="pacifico">Định hướng</h4>
                   <p>
-                    Kết nối tất cả học sinh trên cả nước cùng nhau trao đổi, học hỏi, và giải đáp thắc mắc để cùng tiến bộ.
+                    Kết nối tất cả học sinh trên cả nước cùng nhau trao đổi, học
+                    hỏi, và giải đáp thắc mắc để cùng tiến bộ.
                   </p>
-                  <h4>Sứ mệnh</h4>
+                  <h4 className="pacifico">Sứ mệnh</h4>
                   <p>
-                  Nhóm Pi mang sứ mệnh dìu dắt các em đến gần hơn với cánh cổng đại học. Nhóm mang giá trị cốt lõi của một người lái đò và luôn gắn liền với “sự hoàn hảo, niềm đam mê và trách nhiệm".
+                    Pimath mang sứ mệnh dìu dắt các em đến gần hơn với cánh cổng
+                    đại học. Nhóm mang giá trị cốt lõi của một người lái đò và
+                    luôn gắn liền với “Sự hoàn hảo, Niềm đam mê và Trách nhiệm".
                   </p>
                 </div>
               </div>

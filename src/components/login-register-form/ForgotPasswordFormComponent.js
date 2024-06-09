@@ -92,7 +92,7 @@ function ForgotPasswordFormComponent(props) {
                     </div>
                     <div className="d-flex mb-5 align-items-center">
                       <span className="mr-auto">
-                        <Link to="/user/login" className="forgot-pass">
+                        <Link to="/login" className="forgot-pass">
                           Đăng nhập
                         </Link>
                       </span>

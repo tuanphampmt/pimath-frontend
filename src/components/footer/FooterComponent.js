@@ -10,7 +10,7 @@ function FooterComponent(props) {
         <div className="row">
           <div className="col-md">
             <div className="ftco-footer-widget mb-4">
-              <h2 className="ftco-heading-2">Giới thiệu</h2>
+              <h2 className="ftco-heading-2 pacifico">Giới thiệu</h2>
               <p>
                 Nhóm Pi là nơi giao lưu của các thần đồng toán học, chúa tể của
                 những con số, kẻ hủy diệt phương trình tương lai
@@ -40,7 +40,7 @@ function FooterComponent(props) {
           </div>
           <div className="col-md">
             <div className="ftco-footer-widget mb-4 ml-md-4">
-              <h2 className="ftco-heading-2">Về Nhóm Pi</h2>
+              <h2 className="ftco-heading-2 pacifico">Về Nhóm Pi</h2>
               <ul className="list-unstyled">
                 <li>
                   <a href="#">Liên hệ</a>
@@ -59,7 +59,7 @@ function FooterComponent(props) {
           </div>
           <div className="col-md">
             <div className="ftco-footer-widget mb-4">
-              <h2 className="ftco-heading-2">Hỗ trợ</h2>
+              <h2 className="ftco-heading-2 pacifico">Hỗ trợ</h2>
               <ul className="list-unstyled">
                 <li>
                   <a href="#">Câu hỏi bài tập</a>
@@ -75,7 +75,7 @@ function FooterComponent(props) {
           </div>
           <div className="col-md">
             <div className="ftco-footer-widget mb-4">
-              <h2 className="ftco-heading-2">Liên hệ</h2>
+              <h2 className="ftco-heading-2 pacifico">Liên hệ</h2>
               <div className="block-23 mb-3">
                 <ul>
                   <li>

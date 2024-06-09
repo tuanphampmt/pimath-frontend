@@ -12,8 +12,8 @@ function AboutSectionComponent(props) {
             <div className="img-about img d-flex align-items-stretch">
               <div className="overlay" />
               <div
-                className="img d-flex align-self-stretch align-items-center"
-                style={{ backgroundImage: "url(/images/logo.jpeg)" }}
+                className="img d-flex align-self-stretch align-items-center bg-contain"
+                style={{ backgroundImage: "url(/images/logo_n.png)" }}
               ></div>
             </div>
           </div>
@@ -28,18 +28,18 @@ function AboutSectionComponent(props) {
                   - VDC hay, lạ, khó.
                 </p>
                 <div className="text-about">
-                  <h4 className="pacifico">Mục tiêu</h4>
+                  <h4 className="pacifico mt-3 mb-1">Mục tiêu</h4>
                   <p>
                     Mục tiêu của Pimath là giúp các em ôn luyện kiến thức môn
                     Toán một cách kĩ càng để các em tự tin bước vào kì thi THPT
                     Quốc Gia.
                   </p>
-                  <h4 className="pacifico">Định hướng</h4>
+                  <h4 className="pacifico mt-3 mb-1">Định hướng</h4>
                   <p>
                     Kết nối tất cả học sinh trên cả nước cùng nhau trao đổi, học
                     hỏi, và giải đáp thắc mắc để cùng tiến bộ.
                   </p>
-                  <h4 className="pacifico">Sứ mệnh</h4>
+                  <h4 className="pacifico mt-3 mb-1">Sứ mệnh</h4>
                   <p>
                     Pimath mang sứ mệnh dìu dắt các em đến gần hơn với cánh cổng
                     đại học. Nhóm mang giá trị cốt lõi của một người lái đò và

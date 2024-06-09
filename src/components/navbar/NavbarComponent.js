@@ -49,7 +49,7 @@ function NavbarComponent(props) {
             </li>
             <li className="nav-item">
               <Link to="/home/test" className="nav-link">
-                <span>Thi thử Online</span>
+                <span>Thi thử</span>
               </Link>
             </li>
             <li className="nav-item">

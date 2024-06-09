@@ -53,7 +53,7 @@ function ChapterSectionComponent(props) {
           <div className="col-md-9">
             <div id="page-1" className="page bg-light one">
               <h2 className="heading pacifico">KHÓA HỌC PIMATH</h2>
-              <div>
+              <div className="vollkorn">
                 <div>
                   <strong>Chào</strong> các em, anh là Administrator của NHÓM
                   PIMATH, anh xin giới thiệu về khóa:
@@ -76,7 +76,7 @@ function ChapterSectionComponent(props) {
                 </div>
 
                 <div style={{ marginTop: "7px" }}>
-                  Khóa học PIMATH gồm có các khóa sau:
+                  <strong>Khóa</strong> học PIMATH gồm có các khóa sau:
                 </div>
                 <div style={{ marginTop: "7px" }}>
                   - KHÓA HỌC TỔNG ÔN CHUYÊN ĐỀ VD VDC (Bài tập lọc theo dạng
@@ -97,7 +97,7 @@ function ChapterSectionComponent(props) {
             </div>
             <div id="page-2" className="page bg-light two">
               <h2 className="heading pacifico">KHÓA HỌC PIX</h2>
-              <div>
+              <div className="vollkorn">
                 <div>
                   <strong>KHÓA</strong> HỌC PIX là là khóa ôn thi Đánh Giá Năng
                   lực HÀ NỘI-HỒ CHÍ MINH-CÔNG AN-SƯ PHẠM, Đánh Giá Tư Duy BÁCH
@@ -113,7 +113,7 @@ function ChapterSectionComponent(props) {
             </div>
             <div id="page-3" className="page bg-light three">
               <h2 className="heading pacifico">KHÓA HỌC PIY</h2>
-              <div>
+              <div className="vollkorn">
                 <div>
                   <strong>KHÓA</strong> HỌC PIY là là khóa ôn thi các môn Lý,
                   Hóa, Sinh, Anh, Văn, Sinh, Sử, Địa.
@@ -128,7 +128,7 @@ function ChapterSectionComponent(props) {
             </div>
             <div id="page-4" className="page bg-light three">
               <h2 className="heading pacifico">KHÓA HỌC PIZ</h2>
-              <div>
+              <div className="vollkorn">
                 <div>
                   <strong>KHÓA</strong> HỌC PIY là là khóa ôn thi HSG tỉnh,
                   thành phố môn Toán.
@@ -143,7 +143,7 @@ function ChapterSectionComponent(props) {
             </div>
             <div id="page-5" className="page bg-light four">
               <h2 className="heading pacifico">HỌC PHÍ VÀ KHUYẾN MÃI</h2>
-              <div>
+              <div className="vollkorn">
                 <table>
                   <tbody>
                     <tr>
@@ -172,7 +172,7 @@ function ChapterSectionComponent(props) {
                 </table>
               </div>
 
-              <div style={{ marginTop: "15px" }}>
+              <div style={{ marginTop: "15px" }} className="vollkorn">
                 <strong>KHUYẾN MÃI SỐC khi mua: </strong>
                 <div>- PIMATH + PIX hoặc PIMATH + PIY: giảm còn 550k</div>
                 <div>- PIMATH + PIX + PIY: giảm còn 600k và tặng KHÓA PIZ</div>

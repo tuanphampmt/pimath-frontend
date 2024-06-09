@@ -10737,11 +10737,7 @@ h5,
   padding-left: 20px;
   padding-right: 20px;
   color: #051441 !important;
-<<<<<<< HEAD
   font-weight: bold;
-=======
-  font-weight: 600;
->>>>>>> d6c947616beda59b76536f535dd721067d824c0d
   opacity: 1 !important;
 }
 .ftco-navbar-light .navbar-nav > .nav-item > .nav-link span {
@@ -10788,7 +10784,7 @@ h5,
     padding-right: 0;
     padding-bottom: 1rem;
     padding-top: 0;
-    color: #fff !important; 
+    color: #fff !important;
   }
 }
 .ftco-navbar-light .navbar-nav > .nav-item.cta > a {
@@ -10970,7 +10966,6 @@ h5,
   .hero-wrap .overlay {
     opacity: 0.5;
   }
-
 }
 .hero-wrap .slider-text {
   height: 750px;
@@ -11697,8 +11692,8 @@ textarea.form-control {
 }
 
 .ftco-animate {
-  opacity: 0;
-  visibility: hidden;
+  /* opacity: 0;
+  visibility: hidden; */
 }
 
 .bg-primary {
@@ -12227,8 +12222,8 @@ textarea.form-control {
 }
 .content .contents .form-group label,
 .content .bg .form-group label {
-  position: absolute; 
-   top: 50%;
+  position: absolute;
+  top: 50%;
   left: 15px;
   -webkit-transform: translateY(-50%);
   -ms-transform: translateY(-50%);
@@ -12274,11 +12269,11 @@ textarea.form-control {
   border-radius: 0;
   margin-left: 32px;
 }
-.message-error{
+.message-error {
   color: #dc3545;
 }
 
-.message-success{
+.message-success {
   color: #28a745;
 }
 .content .contents .form-control:active,

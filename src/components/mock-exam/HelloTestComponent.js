@@ -50,13 +50,13 @@ function HelloTestComponent(props) {
                 liền với “Sự hoàn hảo, Niềm đam mê và Trách nhiệm".
               </p>
 
-              {/* <a
+              <a
                 href="#open"
                 className="btn btn-primary py-3 px-4"
                 onClick={handleClickOpen}
               >
                 Bắt đầu thi thử
-              </a> */}
+              </a>
             </div>
           </div>
         </div>

@@ -1,7 +1,7 @@
 import React from "react";
 import PropTypes from "prop-types";
 
-function ChapterSectionComponent(props) {
+function CourseIntroductionComponent(props) {
   const {} = props;
 
   return (
@@ -243,6 +243,6 @@ function ChapterSectionComponent(props) {
   );
 }
 
-ChapterSectionComponent.propTypes = {};
+CourseIntroductionComponent.propTypes = {};
 
-export default ChapterSectionComponent;
+export default CourseIntroductionComponent;

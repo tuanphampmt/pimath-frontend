@@ -2,7 +2,7 @@ import React from "react";
 import PropTypes from "prop-types";
 import Tooltip from "@mui/material/Tooltip";
 
-function TestimonialSectionComponent(props) {
+function CourseReviewSectionComponent(props) {
   const {} = props;
 
   return (
@@ -291,6 +291,6 @@ function TestimonialSectionComponent(props) {
   );
 }
 
-TestimonialSectionComponent.propTypes = {};
+CourseReviewSectionComponent.propTypes = {};
 
-export default TestimonialSectionComponent;
+export default CourseReviewSectionComponent;

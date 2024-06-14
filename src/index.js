@@ -10,16 +10,15 @@ import { Provider } from "react-redux";
 import reportWebVitals from "./reportWebVitals";
 import { BrowserRouter, Routes, Route, Navigate } from "react-router-dom";
 import HomeComponent from "./components/Home/HomeComponent";
-import LoginFormComponent from "./components/login-register-form/LoginFormComponent";
-import RegisterFormComponent from "./components/login-register-form/RegisterFormComponent";
 import PrivateRoute from "./routes/PrivateRoute";
 import PublicRoute from "./routes/PublicRoute";
 import ProtectedRoute from "./routes/ProtectedRoute";
-import HomeTestOnlineComponent from "./components/test-online/HomeTestOnlineComponent";
 import "./common/js/loader";
-import ExamComponent from "./components/test-online/ExamComponent";
+// import ExamComponent from "./components/test/ExamComponent";
 import SignIn from "./pages/Authentication/SignIn.tsx";
 import SignUp from "./pages/Authentication/SignUp.tsx";
+import MockExamComponent from "./components/mock-exam/MockExamComponent.js";
+import ExamDetailsComponent from "./components/mock-exam/ExamDetailsComponent";
 
 const root = ReactDOM.createRoot(document.getElementById("root"));
 
@@ -29,8 +28,11 @@ root.render(
       <Routes>
         {/* PrivateRoute - user */}
         <Route element={<PrivateRoute />}>
-          <Route path="/home/test" element={<HomeTestOnlineComponent />} />
-          <Route path="/home/test/:examId" element={<ExamComponent />} />
+          <Route path="/home/mock-exam" element={<MockExamComponent />} />
+          <Route
+            path="/home/mock-exam/:name/:examId"
+            element={<ExamDetailsComponent />}
+          />
         </Route>
         {/* PublicRoute - user*/}
         <Route element={<PublicRoute role="user" />}>

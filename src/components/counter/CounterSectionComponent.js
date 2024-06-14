@@ -1,7 +1,7 @@
 import React from "react";
 import PropTypes from "prop-types";
 
-function SectionCounterComponent(props) {
+function CounterSectionComponent(props) {
   const {} = props;
 
   return (
@@ -57,6 +57,6 @@ function SectionCounterComponent(props) {
   );
 }
 
-SectionCounterComponent.propTypes = {};
+CounterSectionComponent.propTypes = {};
 
-export default SectionCounterComponent;
+export default CounterSectionComponent;

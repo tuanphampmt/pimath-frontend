@@ -2,11 +2,9 @@ import React, { useEffect, useState } from "react";
 import FooterComponent from "../footer/FooterComponent";
 import { Link } from "react-router-dom";
 import { main1, main2 } from "../../common/js/main";
-import TestOnlineComponent from "./TestOnlineComponent";
-import HelloTestComponent from "./HelloTestComponent";
+import ExecuteTestComponent from "./ExecuteTestComponent";
 import { useSelector, useDispatch } from "react-redux";
-import NavbarPublic from "../navbar/NavbarPublic";
-import ExamCartComponent from "./ExamCartComponent";
+import ExamComponent from "./ExamComponent";
 import Box from "@mui/material/Box";
 import Paper from "@mui/material/Paper";
 import InputBase from "@mui/material/InputBase";
@@ -15,8 +13,10 @@ import MenuIcon from "@mui/icons-material/Menu";
 import SearchIcon from "@mui/icons-material/Search";
 import Pagination from "@mui/material/Pagination";
 import Stack from "@mui/material/Stack";
+import NavbarComponent from "../navbar/NavbarComponent";
+import HeroWrapComponent from "../hello-world/HelloWorldComponent";
 
-function HomeTestOnlineComponent(props) {
+function MockExamComponent(props) {
   const start = useSelector((state) => state.testOnline.start);
   useEffect(() => {
     main1();
@@ -31,10 +31,13 @@ function HomeTestOnlineComponent(props) {
   };
   return (
     <>
-      <NavbarPublic />
-      <HelloTestComponent />
-      {start && <TestOnlineComponent />}
-      <Box sx={{ padding: "0 100px", marginTop: "100px" }}>
+      <div className="max-w-[1140px] m-auto ">
+        <NavbarComponent />
+        <HeroWrapComponent />
+      </div>
+      {/* <TestOnlineComponent />
+      <HelloTestComponent /> */}
+      <Box sx={{ padding: "0 100px", marginTop: "50px" }}>
         <h2
           style={{
             fontWeight: "bold",
@@ -75,12 +78,12 @@ function HomeTestOnlineComponent(props) {
             flexWrap: "wrap",
           }}
         >
-          <ExamCartComponent />
-          <ExamCartComponent />
-          <ExamCartComponent />
-          <ExamCartComponent />
-          <ExamCartComponent />
-          <ExamCartComponent />
+          <ExamComponent />
+          <ExamComponent />
+          <ExamComponent />
+          <ExamComponent />
+          <ExamComponent />
+          <ExamComponent />
         </Box>
         <Stack spacing={2} sx={{ margin: "40px 0px" }}>
           <Pagination
@@ -97,4 +100,4 @@ function HomeTestOnlineComponent(props) {
   );
 }
 
-export default HomeTestOnlineComponent;
+export default MockExamComponent;

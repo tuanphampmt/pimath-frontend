@@ -4,7 +4,7 @@ import Button from "@mui/material/Button";
 import Countdown from "react-countdown";
 import AccessAlarmIcon from "@mui/icons-material/AccessAlarm";
 
-function TestOnlineComponent(props) {
+function ExecuteTestComponent(props) {
   const {} = props;
   const countdown = 100000;
   const [completed, setCompleted] = useState(false);
@@ -14,7 +14,7 @@ function TestOnlineComponent(props) {
       setCompleted(true);
     } else {
       return (
-        <span style={{marginLeft: "5px"}}>
+        <span style={{ marginLeft: "5px" }}>
           {" "}
           {hours}:{minutes}:{seconds}
         </span>
@@ -154,4 +154,4 @@ function TestOnlineComponent(props) {
   );
 }
 
-export default TestOnlineComponent;
+export default ExecuteTestComponent;

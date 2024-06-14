@@ -1,0 +1,14 @@
+.hover-card {
+  box-shadow: rgba(0, 0, 0, 0.25) 0px 14px 28px,
+    rgba(0, 0, 0, 0.22) 0px 10px 10px;
+  /* transition: all 0.5 linear; */
+}
+/* .hover-card:hover::before {
+  transform: scale(1.1);
+  box-shadow: 0 0 15px #ffee10;
+} */
+/* .hover-card:hover {
+  box-shadow: 0 0 5px #ffee10;
+  transition: all 0.5 linear;
+  text-shadow: 0 0 5px #ffee10;
+} */

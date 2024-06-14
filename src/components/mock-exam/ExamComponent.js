@@ -10,7 +10,8 @@ import Typography from "@mui/material/Typography";
 import FavoriteIcon from "@mui/icons-material/Favorite";
 import ShareIcon from "@mui/icons-material/Share";
 import { useNavigate } from "react-router-dom";
-
+import "./styled.css";
+import { toLowerCaseNonAccentVietnamese } from "../../common/nonAccentVietnamese";
 
 export default function ExamCartComponent() {
   const [expanded, setExpanded] = React.useState(false);
@@ -20,12 +21,30 @@ export default function ExamCartComponent() {
   };
 
   return (
-    <Card sx={{ maxWidth: 375, cursor: "pointer", marginBottom: "30px" }} onClick={() => navigate("/home/test/de-thi-so-16")}>
+    <Card
+      sx={{
+        maxWidth: 375,
+        cursor: "pointer",
+        marginBottom: "30px",
+        boxShadow:
+          "rgba(136, 165, 191, 0.48) 6px 2px 16px 0px, rgba(255, 255, 255, 0.8) -6px -2px 16px 0px",
+      }}
+      className="hover-card"
+      onClick={() =>
+        navigate(
+          `/home/mock-exam/${toLowerCaseNonAccentVietnamese(
+            "ĐỀ THI THỬ THPT QUỐC GIA LẦN 26"
+          )}/abc`
+        )
+      }
+    >
       <CardHeader
         sx={{
           "& .MuiCardHeader-title": {
             fontSize: "15px",
             fontWeight: "bold",
+            fontFamily: "Potta One, system-ui !important",
+            marginBottom: "5px",
           },
           "& .MuiCardHeader-subheader": {
             fontSize: "13px",
@@ -37,7 +56,7 @@ export default function ExamCartComponent() {
       <CardMedia
         component="img"
         height="194"
-        image="/images/logo-pi.jpeg"
+        image="/images/logo_n.png"
         alt="Paella dish"
       />
       <CardContent>

@@ -1,16 +1,13 @@
 import React, { useEffect } from "react";
-import PropTypes from "prop-types";
 import NavbarComponent from "../navbar/NavbarComponent";
-import HeroWrapComponent from "../hero-wrap/HeroWrapComponent";
-import AboutSectionComponent from "../about-section/AboutSectionComponent";
-import SectionCounterComponent from "../section-counter/SectionCounterComponent";
-import ChapterSectionComponent from "../chapter-section/ChapterSectionComponent";
-import TestimonialSectionComponent from "../testimonial-section/TestimonialSectionComponent";
-import ProjectsSectionComponent from "../projects-section/ProjectsSectionComponent";
-import AuthorSectionComponent from "../author-section/AuthorSectionComponent";
-import ContactSectionComponent from "../contact-section/ContactSectionComponent";
+import HeroWrapComponent from "../hello-world/HelloWorldComponent";
+import AboutSectionComponent from "../about/AboutSectionComponent";
+import ContactSectionComponent from "../contact/ContactSectionComponent";
 import FooterComponent from "../footer/FooterComponent";
 import { main1, main2 } from "../../common/js/main";
+import CourseIntroductionComponent from "../course-introduction/CourseIntroductionComponent";
+import CounterSectionComponent from "../counter/CounterSectionComponent";
+import CourseReviewSectionComponent from "../course-review/CourseReviewSectionComponent";
 function HomeComponent(props) {
   useEffect(() => {
     main1();
@@ -23,10 +20,10 @@ function HomeComponent(props) {
         <NavbarComponent />
         <HeroWrapComponent />
         <AboutSectionComponent />
-        <SectionCounterComponent />
-        <ChapterSectionComponent />
+        <CounterSectionComponent />
+        <CourseIntroductionComponent />
       </div>
-      <TestimonialSectionComponent />
+      <CourseReviewSectionComponent />
       <div className="max-w-[1140px] m-auto ">
         {/* <ProjectsSectionComponent /> */}
         {/* <AuthorSectionComponent /> */}

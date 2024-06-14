@@ -48,7 +48,7 @@ function NavbarComponent(props) {
               </a>
             </li>
             <li className="nav-item">
-              <Link to="/home/test" className="nav-link">
+              <Link to="/home/mock-exam" className="nav-link">
                 <span>Thi thử</span>
               </Link>
             </li>

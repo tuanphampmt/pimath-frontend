@@ -151,7 +151,7 @@ function CourseIntroductionComponent(props) {
                       <th>Học phí</th>
                     </tr>
                     <tr>
-                      <td className="mb:pr-20 pr-3">KHOÁ PIMATH</td>
+                      <td className="mb:pr-20 pr-[2rem]">KHOÁ PIMATH</td>
                       <td>449,000 VNĐ</td>
                     </tr>
 

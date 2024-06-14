@@ -3337,7 +3337,7 @@ input[type="button"].btn-block {
 }
 
 .collapse1:not(.show) {
-  display: none;
+  /* display: none; */
 }
 
 .collapsing {

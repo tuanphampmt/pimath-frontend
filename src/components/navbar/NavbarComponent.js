@@ -25,7 +25,7 @@ function NavbarComponent(props) {
         >
           <MenuIcon />
         </button>
-        <div className="collapse1 navbar-collapse" id="ftco-nav">
+        <div className="navbar-collapse visible" id="ftco-nav">
           <ul className="navbar-nav nav ml-auto">
             <li className="nav-item">
               <a href="#home-section" className="nav-link">

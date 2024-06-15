@@ -19,6 +19,7 @@ function HomeComponent(props) {
       <div className="max-w-[1140px] m-auto ">
         <NavbarComponent />
         <HeroWrapComponent />
+
         <AboutSectionComponent />
         <CounterSectionComponent />
         <CourseIntroductionComponent />

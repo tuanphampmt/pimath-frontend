@@ -1,0 +1,153 @@
+Câu 1:	Tính bán kính của mặt cầu có diện tích \[16\pi .\]
+A. $1.$	B. $2.$	C. $8.$	D. $4.$
+Câu 2:	Tính tổng các nghiệm của phương trình ${\log _3}\left( {x + 5} \right) + {\log _3}\left( {x + 1} \right) = {\log _3}\left( {x + 11} \right)$.
+A. \[6.\]	B. \[ - 5.\]	C. \[ - 6.\]	D. \[1.\]
+Câu 3:	Cho hàm số $y = f\left( x \right)$ có bảng biến thiên như sau:
+ 
+Hàm số đã cho đạt cực đại tại điểm nào dưới đây?
+A. \[x = 3.\]	B. \[x =  - 1.\]	C. \[x = 0.\]	D. \[x = 1.\]
+Câu 4:	Trong không gian $Oxyz$, cho các điểm $M\left( {1;2;3} \right);\,N\left( {4;2; - 1} \right)$. Tính độ dài đoạn thẳng $MN.$
+A. \[10.\]	B. \[\sqrt 7 .\]	C. \[5.\]	D. \[\sqrt 5 .\]
+Câu 5:	Cho $a$ là một số thực dương. Viết biểu thức $P = \frac{{{a^{\frac{4}{5}}}.\sqrt a }}{{\sqrt[3]{{{a^5}}}}}$ dưới dạng lũy thừa với số mũ hữu tỉ.
+A. \[P = {a^{\frac{{ - 11}}{{30}}}}\].	B. \[P = {a^{\frac{{11}}{{30}}}}\].	C. \[P = {a^{\frac{{ - 13}}{{15}}}}\]	D. \[P = {a^{\frac{{11}}{{15}}}}\]
+Câu 6:	Với giá trị nào của $m$ thì đồ thị hàm số $y = {x^3} + \left( {m - 1} \right){x^2} - mx + 1$ đạt cực trị tại điểm $x = 1$?
+A. $m = 2$.	B. $m =  - 1$.	C. $m = 0$.	D. $m = 1$.
+Câu 7:	Trong không gian $Oxyz$, cho mặt cầu $\left( S \right):{x^2} + {y^2} + {z^2} + 4x - 2y + 4z - 7 = 0$. Tính bán kính $R$ của mặt cầu $\left( S \right)$.
+A. $R = 2$.	B. $R = 4$.	C. $R = 16$.	D. $R = \sqrt 2 $.
+Câu 8:	Kí hiệu ${z_0}$ là nghiệm phức có phần ảo dương của phương trình $4{z^2} - 16z + 17 = 0$. Trên mặt phẳng tọa độ, điểm nào dưới đây là điểm biểu diễn của số phức $w = i{z_0}$?
+A. ${M_4}\left( {\frac{1}{4};1} \right)$.	B. ${M_1}\left( {\frac{1}{2};2} \right)$.	C. ${M_2}\left( { - \frac{1}{2};2} \right)$.	D. ${M_3}\left( { - \frac{1}{4};1} \right)$.
+Câu 9:	Cho hai số phức ${z_1} = 4 - 3i$ và ${z_2} = 7 + 3i$. Tìm số phức $z = {z_1} - {z_2}$.
+A. $z = 3 + 6i$.	B. $z =  - 1 - 10i$.	C. $z = 11$.	D. $z =  - 3 - 6i$.
+Câu 10:	Tìm phương trình đường tiệm cận đứng của đồ thị hàm số $y = \frac{{3x - 1}}{{x - 3}}$.
+A. $x = \frac{1}{3}$.	B. $y = 3$.	C. $y = \frac{1}{3}$.	D. $x = 3$.
+Câu 11:	Thiết diện qua trục của một hình trụ là một hình vuông có cạnh bằng $2a$. Tính thể tích khối trụ đó theo $a$.
+A. $\frac{2}{3}\pi {a^3}$.	B. $4\pi {a^3}$.	C. $2\pi {a^3}$.	D. $\pi {a^3}$.
+Câu 12:	Tính môđun của số phức $z =  - 1 + 2i$.
+A. 5.	B. $\sqrt 3 $.	C. $\sqrt 5 $.	D. 1.
+Câu 13.   Đường cong trong hình vẽ bên là đồ thị của hàm số nào sau đây?
+ 
+A. \[y = {x^3} - 3x + 1.\]				B. \[y = {x^4} - {x^2} + 1.\]			
+C. \[y =  - {x^3} + 3x + 1.\]			D. \[y =  - {x^2} + x - 1.\]
+Câu 14.   Với \[a,b\] là các số thực dương tuỳ ý thoả mãn \[{\log _5}a - 3{\log _5}b = 2,\] mệnh đề nào sau đây đúng?
+A. \[a = 5b.\]		B. \[a = 25{b^3}.\]	C. \[a = 25b.\]		D. \[a = 10{b^3}.\]
+Câu 15.   Gọi \[{x_1},{x_2}\left( {{x_1} < {x_2}} \right)\] là các nghiệm của phương trình \[\log _{\frac{1}{3}}^2x - 5{\log _3}x + 6 = 0.\] Tính \[T = \frac{{{x_2}}}{{{x_1}}}.\]                                          
+A. \[T = {3^7}\].	B. \[T = \frac{3}{2}\].	C. \[T = \frac{1}{3}\].	D. \[T = 3\].
+Câu 16.   Kí hiệu \[\left( H \right)\] là hình phẳng giới hạn bởi đồ thị hàm số \[y = 2\left( {x - 1} \right){e^x},\] trục tung và trục hoành. Tính thể tích \[V\] của khối tròn xoay thu được khi quay hình \[\left( H \right)\] xung quanh trục \[Ox.\]
+A. \[V = 4 - 2e\].	B. \[V = \left( {4 - 2e} \right)\pi \].	C. \[V = \left( {{e^2} - 5} \right)\pi \].	D. \[V = {e^2} - 5\].
+Câu 17:	Hàm số nào sau đây nghịch biến trên ? 
+A. $y = {5^{ - x}}$. 	B. $y = {2023^x}$. 	C. $y = {\left( {\sqrt \pi  } \right)^x}$. 	D. $y = {\left( {{e^2} + 1} \right)^x}$.
+Câu 18:	Tìm giá trị lớn nhất của hàm số $f\left( x \right) = \sin 3x + \cos 3x$.
+A. $3\sqrt 2 $. 	B. $2$. 	C. $\sqrt 2 $. 	D. $1$.
+Câu 19:	Trong không gian $Oxyz$, vectơ nào dưới đây là một vectơ chỉ phương của đường thẳng ?
+A. $\overrightarrow {{a_2}}  = \left( {4;1;6} \right)$. 	B. $\overrightarrow {{a_4}}  = \left( { - 4; - 1; - 6} \right)$. 	C. $\overrightarrow {{a_3}}  = \left( {1;2;3} \right)$. 	D. $\overrightarrow {{a_1}}  = \left( {1;2; - 3} \right)$.
+Câu 20:	Biết $F\left( x \right) = {x^2}$ là một nguyên hàm của hàm số $f\left( x \right)$ trên . Tính $\int\limits_1^3 {\left[ {1 + f\left( x \right)} \right]{\rm{d}}x} $. 
+A. $\frac{{32}}{3}$. 	B. $\frac{{26}}{3}$. 	C. $8$. 	D. $10$.
+Câu 21:	Cho hình nón có bán kính đáy \[r = 3\] và độ dài đường sinh \[l = 5\]. Tính diện tích xung quanh của hình nón.
+A. \[15\pi \].	B. \[10\pi \].	C. \[30\pi \].	D. \[5\pi \].
+Câu 22:	Có bao nhiêu số tự nhiên có ba chữ số đôi một khác nhau được lấy từ tập hợp \[A = \left\{ {1;2;3;4;5;6} \right\}\]?
+A. \[{\rm{C}}_6^3\].	B. \[{\rm{A}}_6^3\].	C. \[{3^6}\].	D. \[{{\rm{P}}_6}\].
+Câu 23:	Trong không gian \[Oxyz\], cho ba điểm \[M\left( {1;0;0} \right)\], \[N\left( {0; - 3;0} \right)\] và \[P\left( {0;0;2} \right)\]. Viết phương trình mặt phẳng \[\left( {MNP} \right)\].
+A. \[\frac{x}{2} + \frac{y}{{ - 1}} + \frac{z}{2} = 0\].	B. \[\frac{x}{1} + \frac{y}{{ - 3}} + \frac{z}{2} = 1\].	C. \[\frac{x}{1} + \frac{y}{{ - 3}} + \frac{z}{2} = 0\].	D. \[\frac{x}{1} + \frac{y}{{ - 3}} + \frac{z}{2} =  - 1\].
+Câu 24:	Biết \[\int\limits_{ - 1}^4 {f\left( x \right){\rm{d}}x}  = 3\] và \[\int\limits_{ - 1}^0 {f\left( x \right){\rm{d}}x}  = 2\], tính \[\int\limits_0^4 {\left[ {4{{\rm{e}}^{2x}} + 3f\left( x \right)} \right]{\rm{d}}x} \].
+A. \[2{{\rm{e}}^8}\].	B. \[{\rm{4}}{{\rm{e}}^8} - 1\].	C. \[2{{\rm{e}}^8} + 1\].	D. \[2{{\rm{e}}^8} + 2\].
+Câu 25:	Cho hàm số $f\left( x \right)$ có bảng biến thiên như sau:
+ 
+Hàm số đã cho đồng biến trên khoảng nào dưới đây?
+A. $\left( { - 1;0} \right)$.	B. $\left( { - 1; + \infty } \right)$.	C. $\left( { - \infty ; - 1} \right)$.	D. $\left( {0;1} \right)$.
+Câu 26:	Cho số phức $z$ thoả mãn $\left( {2 + i} \right)z - 4\left( {\overline z  - i} \right) =  - 8 + 19i$. Tìm phần ảo của $z$.
+A. $ - 2$.	B. $2$.	C. $3$.	D. $ - 3$.
+Câu 27:	Cho hình lập phương$ABCD.A'B'C'D'$cạnh bằng$a$. Tính số đo góc giữa hai đường thẳng $AB'$ và $CC'$.
+ 
+
+A. $60^\circ $.	B. $90^\circ $.	C. $30^\circ $.	D. $45^\circ $.
+Câu 28:	Cho hàm số $f\left( x \right)$ có bảng xét dấu của đạo hàm như sau:
+ 
+Hàm số có bao nhiêu điểm cực trị?
+A. $2$.	B. $1$.	C. $3$.	D. $0$.
+Câu 29:	Cho hàm số \[f\left( x \right) = \cos 2x\]. Trong các khẳng định sau, khẳng định nào đúng? 
+A. \[\int {f\left( x \right)} \,dx = 2\sin 2x + C\].	B. \[\int {f\left( x \right)} \,dx =  - 2\sin 2x + C\].	
+C. \[\int {f\left( x \right)} \,dx =  - \frac{1}{2}\sin 2x + C\].	D. \[\int {f\left( x \right)} \,dx = \frac{1}{2}\sin 2x + C\].
+Câu 30:	Trong không gian $Oxyz$, cho mặt phẳng $\left( P \right):\,\,2x + y - 2z + 3 = 0$ và điểm $I\left( {1;\,1;\,0} \right)$. Phương trình mặt cầu tâm $I$ và tiếp xúc với mặt phẳng $\left( P \right)$ là
+A. \[{(x - 1)^2} + {(y - 1)^2} + {z^2} = 16\].	B. \[{(x - 1)^2} + {(y + 1)^2} + {z^2} = 4\]	.
+C. \[{(x - 1)^2} + {(y - 1)^2} + {z^2} = 4\].	D. \[{(x + 1)^2} + {(y + 1)^2} + {z^2} = 16\].
+Câu 31:	Tìm tập xác định $D$ của hàm số \[y = {\log _{\frac{1}{2}}}\left( {4 - {x^2}} \right)\].
+A. $D = \left[ { - 2;\,\,2} \right]$.	B. .	C. $D = \left( { - 2;\,\,2} \right)$.	D. $D = \left( {0;\,\,2} \right)$.
+Câu 32:	Trong không gian $Oxyz$, cho điểm $A\left( {3; - \,5;\,\,1} \right)$. Tìm tọa độ hình chiếu vuông góc của điểm $A$ lên mặt phẳng $\left( {xOy} \right)$. 
+A. $P\left( {3; - 5;\,0} \right)$.	B. $N\left( {0;\,0;\, - 1} \right)$.	C. $M\left( {0;\,0;\,1} \right)$	D. $Q\left( { - 3;\,\,5;\,0} \right)$
+Câu 33: 	Tìm giá trị nhỏ nhất của hàm số \[y = x + \frac{9}{x}\] trên đoạn \[\left[ {2;4} \right]\]
+A. \[\mathop {\min }\limits_{\left[ {2;4} \right]} y =  - 6\]	B. \[\mathop {\min }\limits_{\left[ {2;4} \right]} y = 6\]	C. \[\mathop {\min }\limits_{\left[ {2;4} \right]} y = \frac{{25}}{4}\]	D. \[\mathop {\min }\limits_{\left[ {2;4} \right]} y = \frac{{13}}{2}\]
+Câu 34: 	Cho hình chóp \[S.ABCD\] có đáy ABCD là hình chữ nhật, \[AB = 3a\] và \[AD = 4a\]. Cạnh bên SA vuông góc với mặt phẳng \[\left( {ABCD} \right)\] và \[SA = a\sqrt 5 \]. Tính thể tích của khối chóp S.ABCD. 
+A. \[12\sqrt 5 {a^3}\]	B. \[\frac{{2\sqrt 5 {a^3}}}{3}\]	C. \[4\sqrt 5 {a^3}\]	D. \[\frac{{4\sqrt 5 {a^3}}}{3}\]
+Câu 35: 	Cho cấp số cộng \[\left( {{u_n}} \right)\] có \[{u_3} = 17\] và \[d =  - 2\]. Tìm \[{u_1}\]
+A. \[ - 19\]	B. \[ - 21\]	C. \[19\]	D. \[21\]
+Câu 36. 	Trong không gian $Oxyz$, cho hai đường thẳng ${d_1}:\left\{ \begin{array}{l}
+x = 1 + t\\
+y = 3 - 2t\\
+z = t
+\end{array} \right.$  và ${d_2}:\left\{ \begin{array}{l}
+x = 2 - t'\\
+y = 1 + 2t'\\
+z =  - 4 + t'
+\end{array} \right.$. Viết phương trình đường thẳng $\Delta $ nằm trong mặt phẳng $\left( {xOy} \right)$ và cắt hai đường thẳng ${d_1},{d_2}$.
+A. $\left\{ \begin{array}{l}
+x =  - 2 + t\\
+y = 9 + 2t\\
+z = 0
+\end{array} \right.$.       	B. $\left\{ \begin{array}{l}
+x =  - 2 - t\\
+y = 9 + 2t\\
+z = 0
+\end{array} \right.$.	C. $\left\{ \begin{array}{l}
+x =  - 3 - 2t\\
+y = 6 + 9t\\
+z = 0
+\end{array} \right.$.		D. $\left\{ \begin{array}{l}
+x =  - 3 + t\\
+y = 6 + 3t\\
+z = 0
+\end{array} \right.$.
+Câu 37. 	Cho hàm số $y = f\left( x \right)$ có đạo hàm liên tục, nhận giá trị dương trên nửa khoảng $\left[ {1; + \infty } \right)$, $f\left( 1 \right) = 2$ và ${\left( {\frac{{{f^2}\left( x \right)}}{{{x^2}}}} \right)^\prime } = 1,\forall x \in \left[ {1; + \infty } \right)$. Tính $f\left( 2 \right)$.
+A. \[2\sqrt 5 .\]	B. \[2\sqrt 3 .\]	C. \[2\sqrt 2 .\]	D. \[2\sqrt 6 .\]
+Câu 38.	Cho hình chóp \[S.ABCD\] có đáy \[ABCD\] là hình thoi cạnh \[a\]. Tam giác \[ABC\] đều, hình chiếu vuông góc \[H\] của đỉnh \[S\] trên mặt phẳng \[\left( {ABCD} \right)\] trùng với trọng tâm của tam giác \[ABC\]. Đường thẳng \[SD\] hợp với mặt phẳng \[\left( {ABCD} \right)\] một góc \[{30^0}\]. Tính khoảng cách \[d\] từ \[B\]đến mặt phẳng \[(SCD)\]theo \[a\].
+A.	\[d = a\sqrt 3 \].	B. \[d = \frac{{2a\sqrt 5 }}{3}\].	C. \[d = \frac{{2a\sqrt {21} }}{{21}}\].	D. \[d = \frac{{a\sqrt {21} }}{7}\].
+Câu 39. 	Cho hàm số \[f\left( x \right)\] xác định, liên tục trên  và thỏa mãn \[f\left( {\cot x} \right) = \sin 2x + \cos 2x.\] Tìm giá trị lớn nhất của hàm số $g\left( x \right) = f\left( x \right).f\left( {1 - x} \right)$ trên đoạn $\left[ { - 1;1} \right]$.
+A. $\frac{1}{8}$.	B. $\frac{1}{4}$.	C. $\frac{1}{{25}}$.	D. $\frac{1}{{16}}$.
+Câu 40.	Trong không gian \[Oxyz\], cho mặt cầu \[\left( S \right):{\left( {x + 1} \right)^2} + {\left( {y - 2} \right)^2} + {\left( {z + 3} \right)^2} = 25\] và điểm \[A\left( {2;2;1} \right)\]. Xét các điểm \[B\], \[C\], \[D\] thay đổi thuộc \[\left( S \right)\] sao cho \[AB\], \[AC\], \[AD\] đôi một vuông góc nhau. Khoảng cách từ tâm của \[\left( S \right)\] đến mặt phẳng \[\left( {BCD} \right)\] có giá trị lớn nhất bằng
+A. $\frac{{10}}{3}$.	B. $1$.	C. $\frac{5}{6}$.	D. $\frac{5}{3}$.
+Câu 41.	Một khuôn viên dạng nửa hình tròn, trên đó người ta thiết kế phần để trồng hoa có dạng của một cánh hoa hình parabol có đỉnh trùng với tâm và có trục đối xứng vuông góc với đường kính của nửa hình tròn, hai đầu mút của cánh hoa nằm trên nửa hình tròn (phần tô đậm) và cách nhau một khoảng 4 (m). Phần còn lại của khuôn viên (phần không tô đậm) dành để trồng cỏ Nhật Bản. Biết các kích thước như hình vẽ, chi phí để trồng hoa và cỏ Nhật Bản tương ứng là 150.000 đồng/m2 và 100.000 đồng/m2. Hỏi cần bao nhiêu tiền để trồng hoa và cỏ Nhật Bản trong khuôn viên đó? (Số tiền được làm tròn đến hàng đơn vị)
+ 
+A. 3.926.990 (đồng).	B. 4.115.408 (đồng)	C. 1.948.000 (đồng).	D. 3.738.574 (đồng).
+Câu 42.	Cho hình chóp đều $S.ABC$ có cạnh bằng $a$, góc giữa đường thẳng $SA$ và mặt phẳng $\left( {ABC} \right)$ bằng $60^\circ $. Gọi $A',\,\,B',\,\,C'$ tương ứng là các điểm đối xứng của $A,\,\,B,\,\,C$ qua $S$. Thể tích $V$ của khối bát diện có các mặt $ABC,\,\,A'B'C',\,\,A'BC,\,\,B'CA,\,\,C'AB$$,\,\,AB'C',\,\,BA'C'$, $CA'B'$là    
+A. $V = 2\sqrt 3 {a^3}$.	B. $V = \frac{{2\sqrt 3 {a^3}}}{3}$.	C. $V = \frac{{4\sqrt 3 {a^3}}}{3}$.	D. $V = \frac{{\sqrt 3 {a^3}}}{2}$ .
+Câu 43.	Cho hàm số \[f(x)\] liên tục trên và có đồ thị như hình vẽ. Có bao nhiêu giá trị nguyên của tham số \[m\]để phương trình: \[f\left( {\left| {\frac{{3\sin x - \cos x - 1}}{{2\cos x - \sin x + 4}}} \right| + 2} \right) = f\left( {\sqrt {{{\left( {m + 2} \right)}^2} + 4} } \right)\] có nghiệm?
+
+
+
+
+
+
+A\[3\].                     	B. \[5\].                       	C. \[4\].	     D. \[2\].
+Câu 44.	Gọi $S$ là tập tất cả các số tự nhiên có 4 chữ số đôi một khác nhau được chọn từ các chữ số $1,\,\,2,\,\,3,\,\,4,\,\,5,\,\,6,\,\,7,\,\,8,\,\,9$. Lấy ngẫu nhiên một số thuộc $S$. Tính xác suất để lấy được một số chia hết cho $11$ và tổng 4 chữ số của nó cũng chia hết cho $11$.   
+A. $P = \frac{1}{{63}}$.	B. $P = \frac{1}{{126}}$.	C. $\frac{2}{{63}}$.	D. $\frac{8}{{21}}$.
+Câu 45.	Cho dãy số \[\left( {{u_n}} \right)\] thỏa mãn \[{u_1} < 1;{\rm{ }}{u_{n + 1}} = 5.{u_n},\forall n \ge 1\] và
+\[\left( {\log {u_1} - 1} \right)\sqrt {2\log {u_3} - \log {u_1} + 5}  + 3\left( {\sqrt {2\log {u_3} - \log {u_1} + 5}  - \log {u_1}} \right) - 6 = 0\]
+Tổng của bao nhiêu số hạng đầu của dãy số bằng \[4882,81\].
+A. \[12\] số hạng.	B. \[11\] số hạng.	C. \[9\] số hạng.	D.\[10\] số hạng.
+Câu 46.	Có bao nhiêu giá trị nguyên của tham số $m$ thuộc đoạn $\left[ { - 10;10} \right]$ để hàm số $y = \left| { - {x^3} + 3\left( {m + 1} \right){x^2} - 3m\left( {m + 2} \right)x + {m^2}\left( {m + 3} \right)} \right|$ đồng biến trên khoảng $\left( {0;1} \right)$.
+A. \[21\]	B. \[10\]	C. \[8\]	D.\[2\]
+Câu 47. 	Cho hàm số $y = f\left( x \right)$ liên tục trên  và hàm số $y = f'\left( x \right)$ có đồ thị như hình vẽ.
+ 
+Tìm tất cả các giá trị của tham số m để bất phương trình $ - \frac{1}{3}f\left( { - 3x - 8} \right) \ge \frac{9}{2}{x^2} + 16x - m$ đúng với mọi $x \in \left[ { - 2;0} \right]$:
+A. \[m \le \frac{1}{3}f\left( { - 2} \right) - 14\].	B. \[m \le \frac{1}{3}f\left( { - 4} \right) - \frac{{40}}{3}\].	C. \[m \ge \frac{1}{3}f\left( { - 2} \right) - 4\].	D. \[m \ge \frac{1}{3}f\left( { - 4} \right) - \frac{{40}}{3}\].
+Câu 48. 	Hình $\left( \Im  \right)$ là tập hợp những điểm \[M\] biểu diễn số phức \[z\] trong mặt phẳng phức, biết số phức \[z\]thỏa mãn các điều kiện sau: \[\left| {z - 2i} \right| - \left| {\bar z + 1} \right| \ge 0\]$,\left| {2 + z} \right| \ge \left| {i - z} \right|$và \[\left| {\frac{{z + i}}{{z - 2i}}} \right| \ge 1\]. Tính diện tích hình $\left( \Im  \right)$.
+	A. $\frac{3}{2}$	B. $\frac{5}{2}$	C. \[\frac{3}{4}\]	D. $\frac{5}{4}$.
+Câu 49.	Trong không gian \[{\rm{O}}xyz\] cho mặt phẳng \[\left( P \right):y - 1 = 0\], đường thẳng \[\Delta :\left\{ \begin{array}{l}
+x = 1\\
+y = 2 - t\\
+z = 1
+\end{array} \right.\] và hai điểm\[A\left( { - 1; - 3;11} \right)\], \[B\left( {\frac{1}{2};0;8} \right)\]. Hai điểm \[M,N\] thuộc mặt phẳng \[\left( P \right)\] sao cho \[d\left( {M;\Delta } \right) = 2\] và \[NA = 2NB\]. Tìm giá trị nhỏ nhất của đoạn \[MN\]. 
+A. \[M{N_{\min }} = 1\].	B. \[M{N_{\min }} = \sqrt 2 \].	C. \[M{N_{\min }} = \frac{{\sqrt 2 }}{2}\].	D. \[M{N_{\min }} = \frac{2}{3}\].
+Câu 50.	Có bao nhiêu giá trị nguyên dương của $y$ sao cho tồn tại số thực $x \in \left( {7; + \infty } \right)$ thỏa mãn:
+${\log _{11}}y = {\log _{{y^{{{\log }_{11}}x}} + 7}}\left( {x - 7} \right)$
+A. \[10\].	B. \[9\].	C. \[8\].	D. \[11\].
+

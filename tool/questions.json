@@ -1,0 +1,52 @@
+[
+    {
+        "number": 1,
+        "title": "Tính\\ bán\\ kính\\ của\\ mặt\\ cầu\\ có\\ diện\\ tích\\ 16\\pi\\ .",
+        "options": [
+            "A.\\ $1.$",
+            "B.\\ $2.$",
+            "C.\\ $8.$",
+            "D.\\ $4.$"
+        ]
+    },
+    {
+        "number": 2,
+        "title": "Tính\\ tổng\\ các\\ nghiệm\\ của\\ phương\\ trình\\ ${\\log\\ _3}\\left(\\ {x\\ +\\ 5}\\ \\right)\\ +\\ {\\log\\ _3}\\left(\\ {x\\ +\\ 1}\\ \\right)\\ =\\ {\\log\\ _3}\\left(\\ {x\\ +\\ 11}\\ \\right)$.",
+        "options": [
+            "A.\\ 6.",
+            "B.\\ \\ -\\ 5.",
+            "C.\\ \\ -\\ 6.",
+            "D.\\ 1."
+        ]
+    },
+    {
+        "number": 3,
+        "title": "Cho\\ hàm\\ số\\ $y\\ =\\ f\\left(\\ x\\ \\right)$\\ có\\ bảng\\ biến\\ thiên\\ như\\ sau:\\ Hàm\\ số\\ đã\\ cho\\ đạt\\ cực\\ đại\\ tại\\ điểm\\ nào\\ dưới\\ đây?",
+        "options": [
+            "A.\\ x\\ =\\ 3.",
+            "B.\\ x\\ =\\ \\ -\\ 1.",
+            "C.\\ x\\ =\\ 0.",
+            "D.\\ x\\ =\\ 1."
+        ]
+    },
+    {
+        "number": 4,
+        "title": "Trong\\ không\\ gian\\ $Oxyz$,\\ cho\\ các\\ điểm\\ $M\\left(\\ {1;2;3}\\ \\right);\\,N\\left(\\ {4;2;\\ -\\ 1}\\ \\right)$.\\ Tính\\ độ\\ dài\\ đoạn\\ thẳng\\ $MN.$",
+        "options": [
+            "A.\\ 10.",
+            "B.\\ \\sqrt\\ 7\\ .",
+            "C.\\ 5.",
+            "D.\\ \\sqrt\\ 5\\ ."
+        ]
+    },
+    {
+        "number": 5,
+        "title": "Cho\\ $a$\\ là\\ một\\ số\\ thực\\ dương.\\ Viết\\ biểu\\ thức\\ $P\\ =\\ \\frac{{{a^{\\frac{4}{5}}}.\\sqrt\\ a\\ }}{{\\sqrt[3]{{{a^5}}}}}$\\ dưới\\ dạng\\ lũy\\ thừa\\ với\\ số\\ mũ\\ hữu\\ tỉ.",
+        "options": [
+            "A.\\ P\\ =\\ {a^{\\frac{{\\ -\\ 11}}{{30}}}}.",
+            "B.\\ P\\ =\\ {a^{\\frac{{11}}{{30}}}}.",
+            "C.\\ P\\ =\\ {a^{\\frac{{\\ -\\ 13}}{{15}}}}",
+            "D.\\ P\\ =\\ {a^{\\frac{{11}}{{15}}}}"
+        ]
+    }
+]

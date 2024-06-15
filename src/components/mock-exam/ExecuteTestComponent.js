@@ -3,10 +3,12 @@ import Stack from "@mui/material/Stack";
 import Button from "@mui/material/Button";
 import Countdown from "react-countdown";
 import AccessAlarmIcon from "@mui/icons-material/AccessAlarm";
+import ExamQuestionComponent from "./ExamQuestionComponent";
+import questions from "./tool/questions.json";
 
 function ExecuteTestComponent(props) {
   const {} = props;
-  const countdown = 100000;
+  const countdown = 1000 * 6000;
   const [completed, setCompleted] = useState(false);
 
   const renderer = ({ hours, minutes, seconds, completed }) => {
@@ -41,8 +43,10 @@ function ExecuteTestComponent(props) {
         <div className="row justify-content-center py-5 mt-5">
           <div className="col-md-12 heading-section text-center">
             <h2 className="mb-4">ĐỀ THI THỬ THPT QUỐC GIA LẦN 30</h2>
-            <h5 className="mb-4">Thời gian làm bài: 21h00 đến 22h30</h5>
-            <h5 className="mb-4">Số lượng câu hỏi: 50</h5>
+            <h5 className="mb-4 vollkorn">
+              Thời gian làm bài: 21h00 đến 22h30
+            </h5>
+            <h5 className="mb-4 vollkorn">Số lượng câu hỏi: 50</h5>
           </div>
         </div>
 
@@ -74,10 +78,11 @@ function ExecuteTestComponent(props) {
               </div>
             </>
           ) : (
-            <>
-              <div className="col-md-2 mb-4">
+            <div className="w-full">
+              <div className="mb-4">
                 <nav id="navi" className="nav-question">
                   <ul>
+                    <h1 className="text-[1.5rem]">Thời gian còn lại</h1>
                     <li
                       style={{
                         color: "#dc3545",
@@ -91,17 +96,40 @@ function ExecuteTestComponent(props) {
                         renderer={renderer}
                       />
                     </li>
-                    <li>
-                      <a href="#page-1">Câu 1</a>
-                    </li>
+
+                    {/* {questions &&
+                      questions.map((question) => {
+                        return (
+                          <li>
+                            <a href={`#question-${question.number}`}>
+                              Câu {question.number}:
+                            </a>
+                          </li>
+                        );
+                      })} */}
                   </ul>
                 </nav>
               </div>
-              <div className="col-md-10">
-                <div id="page-1" className="page bg-light">
-                  <h2 className="heading">Câu 1</h2>
-                  <div>
-                    <div>
+              <div className="">
+                {/* <div id="page-1" className="page bg-light"> */}
+                {questions &&
+                  questions.map((question) => {
+                    return (
+                      <div
+                        id={`page-${question.number}`}
+                        className="mt-4 page bg-light border-2 border-dashed border-gray-400"
+                      >
+                        <h2 className="heading text-left text-[1.2rem] mb-2">
+                          Câu {question.number}:
+                        </h2>
+                        <ExamQuestionComponent question={question} />
+                        {/* <br className=""></br> */}
+                      </div>
+                    );
+                  })}
+
+                {/* <div> */}
+                {/* <div>
                       <img
                         src="/images/cau-hoi.png"
                         alt="khoa-vd-vdc-toan"
@@ -142,11 +170,11 @@ function ExecuteTestComponent(props) {
                       >
                         Đáp án D
                       </Button>
-                    </div>
-                  </div>
-                </div>
+                    </div> */}
+                {/* </div> */}
+                {/* </div> */}
               </div>
-            </>
+            </div>
           )}
         </div>
       </div>

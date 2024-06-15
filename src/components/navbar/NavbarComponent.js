@@ -1,7 +1,7 @@
 import React from "react";
 import { Link } from "react-router-dom";
 import MenuIcon from "@mui/icons-material/Menu";
-
+import FaceRoundedIcon from "@mui/icons-material/FaceRounded";
 function NavbarComponent(props) {
   const {} = props;
 
@@ -25,8 +25,8 @@ function NavbarComponent(props) {
         >
           <MenuIcon />
         </button>
-        <div className="navbar-collapse visible" id="ftco-nav">
-          <ul className="navbar-nav nav ml-auto">
+        <div className="navbar-collapse" id="ftco-nav">
+          <ul className="navbar-nav nav ml-auto items-center">
             <li className="nav-item">
               <a href="#home-section" className="nav-link">
                 <span>Trang chủ</span>
@@ -47,16 +47,20 @@ function NavbarComponent(props) {
                 <span>Nhận xét</span>
               </a>
             </li>
-            <li className="nav-item">
+            {/* <li className="nav-item">
               <Link to="/home/mock-exam" className="nav-link">
                 <span>Thi thử</span>
               </Link>
-            </li>
+            </li> */}
             <li className="nav-item">
               <a href="#contact-section" className="nav-link">
                 <span>Liên hệ</span>
               </a>
             </li>
+            <FaceRoundedIcon
+              fontSize="large"
+              className="text-black ml-[7rem]"
+            />
             {/* <li className="nav-item">
               <a href="#projects-section" className="nav-link">
                 <span>Sách của Pi</span>

@@ -3,12 +3,19 @@
 @tailwind utilities;
 
 .vollkorn,
-p {
-  font-family: "Vollkorn", serif !important;
+p,
+ruby,
+.text-question svg {
+  font-family: "Merienda", cursive;
   font-optical-sizing: auto;
-  font-weight: 600;
-  font-style: normal;
+  font-weight: 500;
+  color: #000 !important;
 }
+.text-question svg {
+  font-size: 14px;
+  font-weight: 200;
+}
+
 body {
   font-family: "Potta One", system-ui !important;
   font-weight: 400;

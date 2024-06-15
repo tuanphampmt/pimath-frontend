@@ -24,5 +24,18 @@ module.exports = {
       },
     },
   },
-  plugins: [],
+  plugins: [
+    function ({ addUtilities }) {
+      const newUtilities = {
+        ".ruby": {
+          display: "ruby-text",
+        },
+        ".whitespace-normal": {
+          whiteSpace: "normal",
+        },
+      };
+
+      addUtilities(newUtilities, ["responsive"]);
+    },
+  ],
 };

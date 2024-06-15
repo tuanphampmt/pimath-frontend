@@ -1,0 +1,494 @@
+[
+    {
+        "number": 1,
+        "question": "<ruby class='ruby'>Tính bán kính của mặt cầu có diện tích <span class='question-mathjax'>16\\pi \\</span></ruby>",
+        "options": [
+            "A.\\$1.$",
+            "B.\\$2.$",
+            "C.\\$8.$",
+            "D.\\$4.$"
+        ]
+    },
+    {
+        "number": 2,
+        "question": "<ruby class='ruby'>Tính tổng các nghiệm của phương trình <span class='question-mathjax'>{\\log _3}\\left( {x + 5} \\right) + {\\log _3}\\left( {x + 1} \\right) = {\\log _3}\\left( {x + 11} \\right)</span></ruby>",
+        "options": [
+            "A.\\6.",
+            "B.\\ - 5.",
+            "C.\\ - 6.",
+            "D.\\1."
+        ]
+    },
+    {
+        "number": 3,
+        "question": "<ruby class='ruby'>Cho hàm số <span class='question-mathjax'>y = f\\left( x \\right)</span> có bảng biến thiên như sau Hàm số đã cho đạt cực đại tại điểm nào dưới đây?</ruby>",
+        "options": [
+            "A.\\x = 3.",
+            "B.\\x =  - 1.",
+            "C.\\x = 0.",
+            "D.\\x = 1."
+        ]
+    },
+    {
+        "number": 4,
+        "question": "<ruby class='ruby'>Trong không gian <span class='question-mathjax'>Oxyz</span>, cho các điểm <span class='question-mathjax'>M\\left( {1;2;3} \\right);\\,N\\left( {4;2; - 1} \\right)</span> Tính độ dài đoạn thẳng <span class='question-mathjax'>MN.</span></ruby>",
+        "options": [
+            "A.\\10.",
+            "B.\\\\sqrt 7 .",
+            "C.\\5.",
+            "D.\\\\sqrt 5 ."
+        ]
+    },
+    {
+        "number": 5,
+        "question": "<ruby class='ruby'>Cho <span class='question-mathjax'>a</span> là một số thực dương Viết biểu thức <span class='question-mathjax'>P = \\frac{{{a^{\\frac{4}{5}}}.\\sqrt a }}{{\\sqrt[3]{{{a^5}}}}}</span> dưới dạng lũy thừa với số mũ hữu tỉ.</ruby>",
+        "options": [
+            "A.\\P = {a^{\\frac{{ - 11}}{{30}}}}.",
+            "B.\\P = {a^{\\frac{{11}}{{30}}}}.",
+            "C.\\P = {a^{\\frac{{ - 13}}{{15}}}}",
+            "D.\\P = {a^{\\frac{{11}}{{15}}}}"
+        ]
+    },
+    {
+        "number": 6,
+        "question": "<ruby class='ruby'>Với giá trị nào của <span class='question-mathjax'>m</span> thì đồ thị hàm số <span class='question-mathjax'>y = {x^3} + \\left( {m - 1} \\right){x^2} - mx + 1</span> đạt cực trị tại điểm <span class='question-mathjax'>x = 1</span>?</ruby>",
+        "options": [
+            "A.\\$m = 2$.",
+            "B.\\$m =  - 1$.",
+            "C.\\$m = 0$.",
+            "D.\\$m = 1$."
+        ]
+    },
+    {
+        "number": 7,
+        "question": "<ruby class='ruby'>Trong không gian <span class='question-mathjax'>Oxyz</span>, cho mặt cầu <span class='question-mathjax'>\\left( S \\right){x^2} + {y^2} + {z^2} + 4x - 2y + 4z - 7 = 0</span>. Tính bán kính <span class='question-mathjax'>R</span> của mặt cầu <span class='question-mathjax'>\\left( S \\right)</span>.</ruby>",
+        "options": [
+            "A.\\$R = 2$.",
+            "B.\\$R = 4$.",
+            "C.\\$R = 16$.",
+            "D.\\$R = \\sqrt 2 $."
+        ]
+    },
+    {
+        "number": 8,
+        "question": "<ruby class='ruby'>Kí hiệu <span class='question-mathjax'>{z_0}</span> là nghiệm phức có phần ảo dương của phương trình <span class='question-mathjax'>4{z^2} - 16z + 17 = 0</span> Trên mặt phẳng tọa độ, điểm nào dưới đây là điểm biểu diễn của số phức <span class='question-mathjax'>w = i{z_0}</span>?</ruby>",
+        "options": [
+            "A.\\${M_4}\\left( {\\frac{1}{4};1} \\right)$.",
+            "B.\\${M_1}\\left( {\\frac{1}{2};2} \\right)$.",
+            "C.\\${M_2}\\left( { - \\frac{1}{2};2} \\right)$.",
+            "D.\\${M_3}\\left( { - \\frac{1}{4};1} \\right)$."
+        ]
+    },
+    {
+        "number": 9,
+        "question": "<ruby class='ruby'>Cho hai số phức <span class='question-mathjax'>{z_1} = 4 - 3i</span> và <span class='question-mathjax'>{z_2} = 7 + 3i</span> Tìm số phức <span class='question-mathjax'>z = {z_1} - {z_2}</span>.</ruby>",
+        "options": [
+            "A.\\$z = 3 + 6i$.",
+            "B.\\$z =  - 1 - 10i$.",
+            "C.\\$z = 11$.",
+            "D.\\$z =  - 3 - 6i$."
+        ]
+    },
+    {
+        "number": 10,
+        "question": "<ruby class='ruby'>\tTìm phương trình đường tiệm cận đứng của đồ thị hàm số <span class='question-mathjax'>y = \\frac{{3x - 1}}{{x - 3}}</span>.</ruby>",
+        "options": [
+            "A.\\$x = \\frac{1}{3}$.",
+            "B.\\$y = 3$.",
+            "C.\\$y = \\frac{1}{3}$.",
+            "D.\\$x = 3$."
+        ]
+    },
+    {
+        "number": 11,
+        "question": "<ruby class='ruby'>\tThiết diện qua trục của một hình trụ là một hình vuông có cạnh bằng <span class='question-mathjax'>2a</span>. Tính thể tích khối trụ đó theo <span class='question-mathjax'>a</span>.</ruby>",
+        "options": [
+            "A.\\$\\frac{2}{3}\\pi {a^3}$.",
+            "B.\\$4\\pi {a^3}$.",
+            "C.\\$2\\pi {a^3}$.",
+            "D.\\$\\pi {a^3}$."
+        ]
+    },
+    {
+        "number": 12,
+        "question": "<ruby class='ruby'>\tTính môđun của số phức <span class='question-mathjax'>z =  - 1 + 2i</span>.</ruby>",
+        "options": [
+            "A.\\5.",
+            "B.\\$\\sqrt 3 $.",
+            "C.\\$\\sqrt 5 $.",
+            "D.\\1."
+        ]
+    },
+    {
+        "number": 13,
+        "question": "<ruby class='ruby'>   Đường cong trong hình vẽ bên là đồ thị của hàm số nào sau đây?</ruby>",
+        "options": [
+            "A.\\y = {x^3} - 3x + 1.",
+            "",
+            "",
+            "",
+            "B.\\y = {x^4} - {x^2} + 1."
+        ]
+    },
+    {
+        "number": 14,
+        "question": "<ruby class='ruby'>   Với <span class='question-mathjax'>a,b\\</span> là các số thực dương tuỳ ý thoả mãn <span class='question-mathjax'>{\\log _5}a - 3{\\log _5}b = 2,\\</span> mệnh đề nào sau đây đúng?</ruby>",
+        "options": [
+            "A.\\a = 5b.",
+            "",
+            "B.\\a = 25{b^3}.",
+            "C.\\a = 25b.",
+            "",
+            "D.\\a = 10{b^3}."
+        ]
+    },
+    {
+        "number": 15,
+        "question": "<ruby class='ruby'>   Gọi <span class='question-mathjax'>{x_1},{x_2}\\left( {{x_1} < {x_2}} \\right)\\</span> là các nghiệm của phương trình <span class='question-mathjax'>\\log _{\\frac{1}{3}}^2x - 5{\\log _3}x + 6 = 0.\\</span> Tính <span class='question-mathjax'>T = \\frac{{{x_2}}}{{{x_1}}}.\\</span></ruby>",
+        "options": [
+            "A.\\T = {3^7}.",
+            "B.\\T = \\frac{3}{2}.",
+            "C.\\T = \\frac{1}{3}.",
+            "D.\\T = 3."
+        ]
+    },
+    {
+        "number": 16,
+        "question": "<ruby class='ruby'>   Kí hiệu <span class='question-mathjax'>\\left( H \\right)\\</span> là hình phẳng giới hạn bởi đồ thị hàm số <span class='question-mathjax'>y = 2\\left( {x - 1} \\right){e^x},\\</span> trục tung và trục hoành. Tính thể tích <span class='question-mathjax'>V\\</span> của khối tròn xoay thu được khi quay hình <span class='question-mathjax'>\\left( H \\right)\\</span> xung quanh trục <span class='question-mathjax'>Ox.\\</span></ruby>",
+        "options": [
+            "A.\\V = 4 - 2e.",
+            "B.\\V = \\left( {4 - 2e} \\right)\\pi .",
+            "C.\\V = \\left( {{e^2} - 5} \\right)\\pi .",
+            "D.\\V = {e^2} - 5."
+        ]
+    },
+    {
+        "number": 17,
+        "question": "<ruby class='ruby'>\tHàm số nào sau đây nghịch biến trên ?</ruby>",
+        "options": [
+            "A.\\$y = {5^{ - x}}$.",
+            "B.\\$y = {2023^x}$.",
+            "C.\\$y = {\\left( {\\sqrt \\pi  } \\right)^x}$.",
+            "D.\\$y = {\\left( {{e^2} + 1} \\right)^x}$."
+        ]
+    },
+    {
+        "number": 18,
+        "question": "<ruby class='ruby'>\tTìm giá trị lớn nhất của hàm số <span class='question-mathjax'>f\\left( x \\right) = \\sin 3x + \\cos 3x</span>.</ruby>",
+        "options": [
+            "A.\\$3\\sqrt 2 $.",
+            "B.\\$2$.",
+            "C.\\$\\sqrt 2 $.",
+            "D.\\$1$."
+        ]
+    },
+    {
+        "number": 19,
+        "question": "<ruby class='ruby'>\tTrong không gian <span class='question-mathjax'>Oxyz</span>, vectơ nào dưới đây là một vectơ chỉ phương của đường thẳng ?</ruby>",
+        "options": [
+            "A.\\$\\overrightarrow {{a_2}}  = \\left( {4;1;6} \\right)$.",
+            "B.\\$\\overrightarrow {{a_4}}  = \\left( { - 4; - 1; - 6} \\right)$.",
+            "C.\\$\\overrightarrow {{a_3}}  = \\left( {1;2;3} \\right)$.",
+            "D.\\$\\overrightarrow {{a_1}}  = \\left( {1;2; - 3} \\right)$."
+        ]
+    },
+    {
+        "number": 20,
+        "question": "<ruby class='ruby'>\tBiết <span class='question-mathjax'>F\\left( x \\right) = {x^2}</span> là một nguyên hàm của hàm số <span class='question-mathjax'>f\\left( x \\right)</span> trên . Tính <span class='question-mathjax'>\\int\\limits_1^3 {\\left[ {1 + f\\left( x \\right)} \\right]{\\rm{d}}x} </span>.</ruby>",
+        "options": [
+            "A.\\$\\frac{{32}}{3}$.",
+            "B.\\$\\frac{{26}}{3}$.",
+            "C.\\$8$.",
+            "D.\\$10$."
+        ]
+    },
+    {
+        "number": 21,
+        "question": "<ruby class='ruby'>\tCho hình nón có bán kính đáy <span class='question-mathjax'>r = 3\\</span> và độ dài đường sinh <span class='question-mathjax'>l = 5\\</span>. Tính diện tích xung quanh của hình nón.</ruby>",
+        "options": [
+            "A.\\15\\pi .",
+            "B.\\10\\pi .",
+            "C.\\30\\pi .",
+            "D.\\5\\pi ."
+        ]
+    },
+    {
+        "number": 22,
+        "question": "<ruby class='ruby'>\tCó bao nhiêu số tự nhiên có ba chữ số đôi một khác nhau được lấy từ tập hợp <span class='question-mathjax'>A = \\left\\{ {1;2;3;4;5;6} \\right\\}\\</span>?</ruby>",
+        "options": [
+            "A.\\{\\rm{C}}_6^3.",
+            "B.\\{\\rm{A}}_6^3.",
+            "C.\\{3^6}.",
+            "D.\\{{\\rm{P}}_6}."
+        ]
+    },
+    {
+        "number": 23,
+        "question": "<ruby class='ruby'>\tTrong không gian <span class='question-mathjax'>Oxyz\\</span>, cho ba điểm <span class='question-mathjax'>M\\left( {1;0;0} \\right)\\</span>, <span class='question-mathjax'>N\\left( {0; - 3;0} \\right)\\</span> và <span class='question-mathjax'>P\\left( {0;0;2} \\right)\\</span>. Viết phương trình mặt phẳng <span class='question-mathjax'>\\left( {MNP} \\right)\\</span>.</ruby>",
+        "options": [
+            "A.\\\\frac{x}{2} + \\frac{y}{{ - 1}} + \\frac{z}{2} = 0.",
+            "B.\\\\frac{x}{1} + \\frac{y}{{ - 3}} + \\frac{z}{2} = 1.",
+            "C.\\\\frac{x}{1} + \\frac{y}{{ - 3}} + \\frac{z}{2} = 0.",
+            "D.\\\\frac{x}{1} + \\frac{y}{{ - 3}} + \\frac{z}{2} =  - 1."
+        ]
+    },
+    {
+        "number": 24,
+        "question": "<ruby class='ruby'>\tBiết <span class='question-mathjax'>\\int\\limits_{ - 1}^4 {f\\left( x \\right){\\rm{d}}x}  = 3\\</span> và <span class='question-mathjax'>\\int\\limits_{ - 1}^0 {f\\left( x \\right){\\rm{d}}x}  = 2\\</span>, tính <span class='question-mathjax'>\\int\\limits_0^4 {\\left[ {4{{\\rm{e}}^{2x}} + 3f\\left( x \\right)} \\right</span><span class='question-mathjax'>{\\rm{d}</span>}x} ].</ruby>",
+        "options": [
+            "A.\\2{{\\rm{e}}^8}.",
+            "B.\\{\\rm{4}}{{\\rm{e}}^8} - 1.",
+            "C.\\2{{\\rm{e}}^8} + 1.",
+            "D.\\2{{\\rm{e}}^8} + 2."
+        ]
+    },
+    {
+        "number": 25,
+        "question": "<ruby class='ruby'>\tCho hàm số <span class='question-mathjax'>f\\left( x \\right)</span> có bảng biến thiên như sau: Hàm số đã cho đồng biến trên khoảng nào dưới đây?</ruby>",
+        "options": [
+            "A.\\$\\left( { - 1;0} \\right)$.",
+            "B.\\$\\left( { - 1; + \\infty } \\right)$.",
+            "C.\\$\\left( { - \\infty ; - 1} \\right)$.",
+            "D.\\$\\left( {0;1} \\right)$."
+        ]
+    },
+    {
+        "number": 26,
+        "question": "<ruby class='ruby'>\tCho số phức <span class='question-mathjax'>z</span> thoả mãn <span class='question-mathjax'>\\left( {2 + i} \\right)z - 4\\left( {\\overline z  - i} \\right) =  - 8 + 19i</span>. Tìm phần ảo của <span class='question-mathjax'>z</span>.</ruby>",
+        "options": [
+            "A.\\$ - 2$.",
+            "B.\\$2$.",
+            "C.\\$3$.",
+            "D.\\$ - 3$."
+        ]
+    },
+    {
+        "number": 27,
+        "question": "<ruby class='ruby'>\tCho hình lập phương<span class='question-mathjax'>ABCD.A'B'C'D'</span>cạnh bằng<span class='question-mathjax'>a</span>. Tính số đo góc giữa hai đường thẳng <span class='question-mathjax'>AB'</span> và <span class='question-mathjax'>CC'</span>.</ruby>",
+        "options": [
+            "A.\\$60^\\circ $.",
+            "B.\\$90^\\circ $.",
+            "C.\\$30^\\circ $.",
+            "D.\\$45^\\circ $."
+        ]
+    },
+    {
+        "number": 28,
+        "question": "<ruby class='ruby'>\tCho hàm số <span class='question-mathjax'>f\\left( x \\right)</span> có bảng xét dấu của đạo hàm như sau: Hàm số có bao nhiêu điểm cực trị?</ruby>",
+        "options": [
+            "A.\\$2$.",
+            "B.\\$1$.",
+            "C.\\$3$.",
+            "D.\\$0$."
+        ]
+    },
+    {
+        "number": 29,
+        "question": "<ruby class='ruby'>\tCho hàm số <span class='question-mathjax'>f\\left( x \\right) = \\cos 2x\\</span>. Trong các khẳng định sau, khẳng định nào đúng?</ruby>",
+        "options": [
+            "A.\\\\int {f\\left( x \\right)} \\,dx = 2\\sin 2x + C.",
+            "B.\\\\int {f\\left( x \\right)} \\,dx =  - 2\\sin 2x + C."
+        ]
+    },
+    {
+        "number": 30,
+        "question": "<ruby class='ruby'>\tTrong không gian <span class='question-mathjax'>Oxyz</span>, cho mặt phẳng <span class='question-mathjax'>\\left( P \\right):\\,\\,2x + y - 2z + 3 = 0</span> và điểm <span class='question-mathjax'>I\\left( {1;\\,1;\\,0} \\right)</span>. Phương trình mặt cầu tâm <span class='question-mathjax'>I</span> và tiếp xúc với mặt phẳng <span class='question-mathjax'>\\left( P \\right)</span> là</ruby>",
+        "options": [
+            "A.\\{(x - 1)^2} + {(y - 1)^2} + {z^2} = 16.",
+            "B.\\{(x - 1)^2} + {(y + 1)^2} + {z^2} = 4",
+            "."
+        ]
+    },
+    {
+        "number": 31,
+        "question": "<ruby class='ruby'>\tTìm tập xác định <span class='question-mathjax'>D</span> của hàm số <span class='question-mathjax'>y = {\\log _{\\frac{1}{2}}}\\left( {4 - {x^2}} \\right)\\</span>.</ruby>",
+        "options": [
+            "A.\\$D = \\left[ { - 2;\\,\\,2} \\right]$.",
+            "B.\\.",
+            "C.\\$D = \\left( { - 2;\\,\\,2} \\right)$.",
+            "D.\\$D = \\left( {0;\\,\\,2} \\right)$."
+        ]
+    },
+    {
+        "number": 32,
+        "question": "<ruby class='ruby'>\tTrong không gian <span class='question-mathjax'>Oxyz</span>, cho điểm <span class='question-mathjax'>A\\left( {3; - \\,5;\\,\\,1} \\right)</span>. Tìm tọa độ hình chiếu vuông góc của điểm <span class='question-mathjax'>A</span> lên mặt phẳng <span class='question-mathjax'>\\left( {xOy} \\right)</span>.</ruby>",
+        "options": [
+            "A.\\$P\\left( {3; - 5;\\,0} \\right)$.",
+            "B.\\$N\\left( {0;\\,0;\\, - 1} \\right)$.",
+            "C.\\$M\\left( {0;\\,0;\\,1} \\right)$",
+            "D.\\$Q\\left( { - 3;\\,\\,5;\\,0} \\right)$"
+        ]
+    },
+    {
+        "number": 33,
+        "question": "<ruby class='ruby'> \tTìm giá trị nhỏ nhất của hàm số <span class='question-mathjax'>y = x + \\frac{9}{x}\\</span> trên đoạn <span class='question-mathjax'>\\left[ {2;4} \\right</span>]</ruby>",
+        "options": [
+            "A.\\\\mathop {\\min }\\limits_{\\left[ {2;4} \\right]} y =  - 6",
+            "B.\\\\mathop {\\min }\\limits_{\\left[ {2;4} \\right]} y = 6",
+            "C.\\\\mathop {\\min }\\limits_{\\left[ {2;4} \\right]} y = \\frac{{25}}{4}",
+            "D.\\\\mathop {\\min }\\limits_{\\left[ {2;4} \\right]} y = \\frac{{13}}{2}"
+        ]
+    },
+    {
+        "number": 34,
+        "question": "<ruby class='ruby'> \tCho hình chóp <span class='question-mathjax'>S.ABCD\\</span> có đáy ABCD là hình chữ nhật, <span class='question-mathjax'>AB = 3a\\</span> và <span class='question-mathjax'>AD = 4a\\</span>. Cạnh bên SA vuông góc với mặt phẳng <span class='question-mathjax'>\\left( {ABCD} \\right)\\</span> và <span class='question-mathjax'>SA = a\\sqrt 5 \\</span>. Tính thể tích của khối chóp S.ABCD.</ruby>",
+        "options": [
+            "A.\\12\\sqrt 5 {a^3}",
+            "B.\\\\frac{{2\\sqrt 5 {a^3}}}{3}",
+            "C.\\4\\sqrt 5 {a^3}",
+            "D.\\\\frac{{4\\sqrt 5 {a^3}}}{3}"
+        ]
+    },
+    {
+        "number": 35,
+        "question": "<ruby class='ruby'> \tCho cấp số cộng <span class='question-mathjax'>\\left( {{u_n}} \\right)\\</span> có <span class='question-mathjax'>{u_3} = 17\\</span> và <span class='question-mathjax'>d =  - 2\\</span>. Tìm <span class='question-mathjax'>{u_1}\\</span></ruby>",
+        "options": [
+            "A.\\ - 19",
+            "B.\\ - 21",
+            "C.\\19",
+            "D.\\21"
+        ]
+    },
+    {
+        "number": 36,
+        "question": "<ruby class='ruby'> \tTrong không gian <span class='question-mathjax'>Oxyz</span>, cho hai đường thẳng <span class='question-mathjax'>{d_1}</span>:left<span class='question-mathjax'>{ \\begin{array}</span><span class='question-mathjax'>{l}</span></ruby>",
+        "options": [
+            "x\\= 1 + t\\\\"
+        ]
+    },
+    {
+        "number": 37,
+        "question": "<ruby class='ruby'> \tCho hàm số <span class='question-mathjax'>y = f\\left( x \\right)</span> có đạo hàm liên tục, nhận giá trị dương trên nửa khoảng <span class='question-mathjax'>\\left[ {1; + \\infty } \\right)</span>, <span class='question-mathjax'>f\\left( 1 \\right) = 2</span> và <span class='question-mathjax'>{\\left( {\\frac{{{f^2}\\left( x \\right)}}{{{x^2}}}} \\right)^\\prime } = 1,\\forall x \\in \\left[ {1; + \\infty } \\right)</span>. Tính <span class='question-mathjax'>f\\left( 2 \\right)</span>.</ruby>",
+        "options": [
+            "A.\\2\\sqrt 5 .",
+            "B.\\2\\sqrt 3 .",
+            "C.\\2\\sqrt 2 .",
+            "D.\\2\\sqrt 6 ."
+        ]
+    },
+    {
+        "number": 38,
+        "question": "<ruby class='ruby'>\tCho hình chóp <span class='question-mathjax'>S.ABCD\\</span> có đáy <span class='question-mathjax'>ABCD\\</span> là hình thoi cạnh <span class='question-mathjax'>a\\</span>. Tam giác <span class='question-mathjax'>ABC\\</span> đều, hình chiếu vuông góc <span class='question-mathjax'>H\\</span> của đỉnh <span class='question-mathjax'>S\\</span> trên mặt phẳng <span class='question-mathjax'>\\left( {ABCD} \\right)\\</span> trùng với trọng tâm của tam giác <span class='question-mathjax'>ABC\\</span>. Đường thẳng <span class='question-mathjax'>SD\\</span> hợp với mặt phẳng <span class='question-mathjax'>\\left( {ABCD} \\right)\\</span> một góc <span class='question-mathjax'>{30^0}\\</span>. Tính khoảng cách <span class='question-mathjax'>d\\</span> từ <span class='question-mathjax'>B\\</span>đến mặt phẳng <span class='question-mathjax'>(SCD)\\</span>theo <span class='question-mathjax'>a\\</span>.</ruby>",
+        "options": [
+            "A.",
+            "d\\= a\\sqrt 3 .",
+            "B.\\d = \\frac{{2a\\sqrt 5 }}{3}.",
+            "C.\\d = \\frac{{2a\\sqrt {21} }}{{21}}.",
+            "D.\\d = \\frac{{a\\sqrt {21} }}{7}."
+        ]
+    },
+    {
+        "number": 39,
+        "question": "<ruby class='ruby'> \tCho hàm số <span class='question-mathjax'>f\\left( x \\right)\\</span> xác định, liên tục trên  và thỏa mãn <span class='question-mathjax'>f\\left( {\\cot x} \\right) = \\sin 2x + \\cos 2x.\\</span> Tìm giá trị lớn nhất của hàm số <span class='question-mathjax'>g\\left( x \\right) = f\\left( x \\right).f\\left( {1 - x} \\right)</span> trên đoạn <span class='question-mathjax'>\\left[ { - 1;1} \\right]</span>.</ruby>",
+        "options": [
+            "A.\\$\\frac{1}{8}$.",
+            "B.\\$\\frac{1}{4}$.",
+            "C.\\$\\frac{1}{{25}}$.",
+            "D.\\$\\frac{1}{{16}}$."
+        ]
+    },
+    {
+        "number": 40,
+        "question": "<ruby class='ruby'>\tTrong không gian <span class='question-mathjax'>Oxyz\\</span>, cho mặt cầu <span class='question-mathjax'>\\left( S \\right):{\\left( {x + 1} \\right)^2} + {\\left( {y - 2} \\right)^2} + {\\left( {z + 3} \\right)^2} = 25\\</span> và điểm <span class='question-mathjax'>A\\left( {2;2;1} \\right)\\</span>. Xét các điểm <span class='question-mathjax'>B\\</span>, <span class='question-mathjax'>C\\</span>, <span class='question-mathjax'>D\\</span> thay đổi thuộc <span class='question-mathjax'>\\left( S \\right)\\</span> sao cho <span class='question-mathjax'>AB\\</span>, <span class='question-mathjax'>AC\\</span>, <span class='question-mathjax'>AD\\</span> đôi một vuông góc nhau. Khoảng cách từ tâm của <span class='question-mathjax'>\\left( S \\right)\\</span> đến mặt phẳng <span class='question-mathjax'>\\left( {BCD} \\right)\\</span> có giá trị lớn nhất bằng</ruby>",
+        "options": [
+            "A.\\$\\frac{{10}}{3}$.",
+            "B.\\$1$.",
+            "C.\\$\\frac{5}{6}$.",
+            "D.\\$\\frac{5}{3}$."
+        ]
+    },
+    {
+        "number": 41,
+        "question": "<ruby class='ruby'>\tMột khuôn viên dạng nửa hình tròn, trên đó người ta thiết kế phần để trồng hoa có dạng của một cánh hoa hình parabol có đỉnh trùng với tâm và có trục đối xứng vuông góc với đường kính của nửa hình tròn, hai đầu mút của cánh hoa nằm trên nửa hình tròn (phần tô đậm) và cách nhau một khoảng 4 (m). Phần còn lại của khuôn viên (phần không tô đậm) dành để trồng cỏ Nhật Bản. Biết các kích thước như hình vẽ, chi phí để trồng hoa và cỏ Nhật Bản tương ứng là 150.000 đồng/m2 và 100.000 đồng/m2. Hỏi cần bao nhiêu tiền để trồng hoa và cỏ Nhật Bản trong khuôn viên đó? (Số tiền được làm tròn đến hàng đơn vị)</ruby>",
+        "options": [
+            "A.\\3.926.990 (đồng).",
+            "B.\\4.115.408 (đồng)",
+            "C.\\1.948.000 (đồng).",
+            "D.\\3.738.574 (đồng)."
+        ]
+    },
+    {
+        "number": 42,
+        "question": "<ruby class='ruby'>\tCho hình chóp đều <span class='question-mathjax'>S.ABC</span> có cạnh bằng <span class='question-mathjax'>a</span>, góc giữa đường thẳng <span class='question-mathjax'>SA</span> và mặt phẳng <span class='question-mathjax'>\\left( {ABC} \\right)</span> bằng <span class='question-mathjax'>60^\\circ </span>. Gọi <span class='question-mathjax'>A',\\,\\,B',\\,\\,C'</span> tương ứng là các điểm đối xứng của <span class='question-mathjax'>A,\\,\\,B,\\,\\,C</span> qua <span class='question-mathjax'>S</span>. Thể tích <span class='question-mathjax'>V</span> của khối bát diện có các mặt <span class='question-mathjax'>ABC,\\,\\,A'B'C',\\,\\,A'BC,\\,\\,B'CA,\\,\\,C'AB</span><span class='question-mathjax'>,\\,\\,AB'C',\\,\\,BA'C'</span>, <span class='question-mathjax'>CA'B'</span>là</ruby>",
+        "options": [
+            "A.\\$V = 2\\sqrt 3 {a^3}$.",
+            "B.\\$V = \\frac{{2\\sqrt 3 {a^3}}}{3}$.",
+            "C.\\$V = \\frac{{4\\sqrt 3 {a^3}}}{3}$.",
+            "D.\\$V = \\frac{{\\sqrt 3 {a^3}}}{2}$ ."
+        ]
+    },
+    {
+        "number": 43,
+        "question": "<ruby class='ruby'>\tCho hàm số <span class='question-mathjax'>f(x)\\</span> liên tục trên và có đồ thị như hình vẽ. Có bao nhiêu giá trị nguyên của tham số <span class='question-mathjax'>m\\</span>để phương trình: <span class='question-mathjax'>f\\left( {\\left| {\\frac{{3\\sin x - \\cos x - 1}}{{2\\cos x - \\sin x + 4}}} \\right| + 2} \\right) = f\\left( {\\sqrt {{{\\left( {m + 2} \\right)}^2} + 4} } \\right)\\</span> có nghiệm?</ruby>",
+        "options": [
+            "A3.",
+            "B.\\5.",
+            "C.\\4.",
+            "D.\\2."
+        ]
+    },
+    {
+        "number": 44,
+        "question": "<ruby class='ruby'>\tGọi <span class='question-mathjax'>S</span> là tập tất cả các số tự nhiên có 4 chữ số đôi một khác nhau được chọn từ các chữ số <span class='question-mathjax'>1,\\,\\,2,\\,\\,3,\\,\\,4,\\,\\,5,\\,\\,6,\\,\\,7,\\,\\,8,\\,\\,9</span>. Lấy ngẫu nhiên một số thuộc <span class='question-mathjax'>S</span>. Tính xác suất để lấy được một số chia hết cho <span class='question-mathjax'>11</span> và tổng 4 chữ số của nó cũng chia hết cho <span class='question-mathjax'>11</span>.</ruby>",
+        "options": [
+            "A.\\$P = \\frac{1}{{63}}$.",
+            "B.\\$P = \\frac{1}{{126}}$.",
+            "C.\\$\\frac{2}{{63}}$.",
+            "D.\\$\\frac{8}{{21}}$."
+        ]
+    },
+    {
+        "number": 45,
+        "question": "<ruby class='ruby'>\tCho dãy số <span class='question-mathjax'>\\left( {{u_n}} \\right)\\</span> thỏa mãn <span class='question-mathjax'>{u_1} < 1;{\\rm{ }}{u_{n + 1}} = 5.{u_n},\\forall n \\ge 1\\</span> và</ruby>",
+        "options": [
+            "\\left(\\{\\log {u_1} - 1} \\right)\\sqrt {2\\log {u_3} - \\log {u_1} + 5}  + 3\\left( {\\sqrt {2\\log {u_3} - \\log {u_1} + 5}  - \\log {u_1}} \\right) - 6 = 0"
+        ]
+    },
+    {
+        "number": 46,
+        "question": "<ruby class='ruby'>\tCó bao nhiêu giá trị nguyên của tham số <span class='question-mathjax'>m</span> thuộc đoạn <span class='question-mathjax'>\\left[ { - 10;10} \\right]</span> để hàm số <span class='question-mathjax'>y = \\left| { - {x^3} + 3\\left( {m + 1} \\right){x^2} - 3m\\left( {m + 2} \\right)x + {m^2}\\left( {m + 3} \\right)} \\right|</span> đồng biến trên khoảng <span class='question-mathjax'>\\left( {0;1} \\right)</span>.</ruby>",
+        "options": [
+            "A.\\21",
+            "B.\\10",
+            "C.\\8",
+            "D.2"
+        ]
+    },
+    {
+        "number": 47,
+        "question": "<ruby class='ruby'> \tCho hàm số <span class='question-mathjax'>y = f\\left( x \\right)</span> liên tục trên  và hàm số <span class='question-mathjax'>y = f'\\left( x \\right)</span> có đồ thị như hình vẽ.</ruby>",
+        "options": [
+            "Tìm\\tất cả các giá trị của tham số m để bất phương trình $ - \\frac{1}{3}f\\left( { - 3x - 8} \\right) \\ge \\frac{9}{2}{x^2} + 16x - m$ đúng với mọi $x \\in \\left[ { - 2;0} \\right]$: A. m \\le \\frac{1}{3}f\\left( { - 2} \\right) - 14.",
+            "B.\\m \\le \\frac{1}{3}f\\left( { - 4} \\right) - \\frac{{40}}{3}.",
+            "C.\\m \\ge \\frac{1}{3}f\\left( { - 2} \\right) - 4.",
+            "D.\\m \\ge \\frac{1}{3}f\\left( { - 4} \\right) - \\frac{{40}}{3}."
+        ]
+    },
+    {
+        "number": 48,
+        "question": "<ruby class='ruby'> \tHình <span class='question-mathjax'>\\left( \\Im  \\right)</span> là tập hợp những điểm <span class='question-mathjax'>M\\</span> biểu diễn số phức <span class='question-mathjax'>z\\</span> trong mặt phẳng phức, biết số phức <span class='question-mathjax'>z\\</span>thỏa mãn các điều kiện sau: <span class='question-mathjax'>\\left| {z - 2i} \\right| - \\left| {\\bar z + 1} \\right| \\ge 0\\</span><span class='question-mathjax'>,\\left| {2 + z} \\right| \\ge \\left| {i - z} \\right|</span>và <span class='question-mathjax'>\\left| {\\frac{{z + i}}{{z - 2i}}} \\right| \\ge 1\\</span>. Tính diện tích hình <span class='question-mathjax'>\\left( \\Im  \\right)</span>.</ruby>",
+        "options": [
+            "A.\\$\\frac{3}{2}$",
+            "B.\\$\\frac{5}{2}$",
+            "C.\\\\frac{3}{4}",
+            "D.\\$\\frac{5}{4}$."
+        ]
+    },
+    {
+        "number": 49,
+        "question": "<ruby class='ruby'>\tTrong không gian <span class='question-mathjax'>{\\rm{O}}xyz\\</span> cho mặt phẳng <span class='question-mathjax'>\\left( P \\right):y - 1 = 0\\</span>, đường thẳng Delta :left<span class='question-mathjax'>{ \\begin{array}</span><span class='question-mathjax'>{l}</span></ruby>",
+        "options": [
+            "x\\= 1\\\\"
+        ]
+    },
+    {
+        "number": 50,
+        "question": "<ruby class='ruby'>\tCó bao nhiêu giá trị nguyên dương của <span class='question-mathjax'>y</span> sao cho tồn tại số thực <span class='question-mathjax'>x \\in \\left( {7; + \\infty } \\right)</span> thỏa mãn: <span class='question-mathjax'>{\\log _{11}}y = {\\log _{{y^{{{\\log }_{11}}x}} + 7}}\\left( {x - 7} \\right)</span></ruby>",
+        "options": [
+            "A.\\10.",
+            "B.\\9.",
+            "C.\\8.",
+            "D.\\11."
+        ]
+    }
+]

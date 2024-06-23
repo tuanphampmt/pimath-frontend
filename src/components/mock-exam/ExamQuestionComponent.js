@@ -13,7 +13,12 @@ function ExamQuestionComponent({ question }) {
       {parse(question.question, {
         replace: (domNode) => {
           console.log(domNode);
-          if (domNode.attribs && domNode.attribs.class === "question-mathjax") {
+          if (
+            domNode.attribs &&
+            domNode.children.length > 0 &&
+            domNode.attribs.class &&
+            domNode.attribs.class.includes("question-mathjax")
+          ) {
             console.log(domNode.children[0].data);
             return (
               <Tex2SVG

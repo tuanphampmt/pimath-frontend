@@ -80,15 +80,7 @@ Câu 34: 	Cho hình chóp \[S.ABCD\] có đáy ABCD là hình chữ nhật, \[AB
 A. \[12\sqrt 5 {a^3}\]	B. \[\frac{{2\sqrt 5 {a^3}}}{3}\]	C. \[4\sqrt 5 {a^3}\]	D. \[\frac{{4\sqrt 5 {a^3}}}{3}\]
 Câu 35: 	Cho cấp số cộng \[\left( {{u_n}} \right)\] có \[{u_3} = 17\] và \[d =  - 2\]. Tìm \[{u_1}\]
 A. \[ - 19\]	B. \[ - 21\]	C. \[19\]	D. \[21\]
-Câu 36. 	Trong không gian $Oxyz$, cho hai đường thẳng ${d_1}:\left\{ \begin{array}{l}
-x = 1 + t\\
-y = 3 - 2t\\
-z = t
-\end{array} \right.$  và ${d_2}:\left\{ \begin{array}{l}
-x = 2 - t'\\
-y = 1 + 2t'\\
-z =  - 4 + t'
-\end{array} \right.$. Viết phương trình đường thẳng $\Delta $ nằm trong mặt phẳng $\left( {xOy} \right)$ và cắt hai đường thẳng ${d_1},{d_2}$.
+Câu 36. 	Trong không gian $Oxyz$, cho hai đường thẳng ${d_1}:\left\{ \begin{array}{l}x = 1 + t\\y = 3 - 2t\\ z = t \end{array} \right}$  và ${d_2}:\left\{ \begin{array}{l} x = 2 - t'\\ y = 1 + 2t'\\ z =  - 4 + t' \end{array} \right}$. Viết phương trình đường thẳng $\Delta $ nằm trong mặt phẳng $\left( {xOy} \right)$ và cắt hai đường thẳng ${d_1},{d_2}$.
 A. $\left\{ \begin{array}{l}
 x =  - 2 + t\\
 y = 9 + 2t\\

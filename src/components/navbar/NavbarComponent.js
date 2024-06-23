@@ -14,7 +14,7 @@ function NavbarComponent(props) {
         <Link className="navbar-brand" to="/home">
           Pimath<sup>3.14</sup>
         </Link>
-        <button
+        {/* <button
           className="navbar-toggler js-fh5co-nav-toggle fh5co-nav-toggle"
           type="button"
           data-toggle="collapse"
@@ -24,8 +24,8 @@ function NavbarComponent(props) {
           aria-label="Toggle navigation"
         >
           <MenuIcon />
-        </button>
-        <div className="navbar-collapse" id="ftco-nav">
+        </button> */}
+        <div className="navbar-collapse lg:flex hidden" id="ftco-nav">
           <ul className="navbar-nav nav ml-auto items-center">
             <li className="nav-item">
               <a href="#home-section" className="nav-link">
